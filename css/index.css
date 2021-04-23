@@ -1,11 +1,11 @@
 /* Colors */
 :root {
-  --lightgray: #e0e0e0;
-  --gray: #C0C0C0;
-  --darkgray: #333;
-  --navy: #17050F;
-  --blue: #082840;
-  --white: #fff;
+  --lightgray: chocolate;
+  --gray: coral;
+  --darkgray: bisque;
+  --navy: goldenrod;
+  --blue: gold;
+  --white: #660033;
 }
 
 /* Global stylesheet */
@@ -16,8 +16,11 @@
 html,
 body {
   padding: 0;
-  margin: 0;
-  font-family: -apple-system, system-ui, sans-serif;
+  margin-top: 0;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 1em;
+  font-family: 'candara', -apple-system, system-ui, sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
 }
@@ -221,7 +224,7 @@ a[href].post-tag:focus {
 
 /* Warning */
 .warning {
-  background-color: #ffc;
+  background-color: #b30059;
   padding: 1em 0.625em; /* 16px 10px /16 */
 }
 .warning ol:only-child {
