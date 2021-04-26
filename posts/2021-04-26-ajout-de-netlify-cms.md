@@ -4,6 +4,11 @@ title: Ajout de Netlify CMS
 description: pour gérér ce site
 date: 2021-04-25T22:00:00.000Z
 featuredImage: https://64.media.tumblr.com/tumblr_lwru10zDEl1qbxpeso1_500.jpg
+tags:
+  - Ce Blog
+  - Netlify CMS
+  - Eleventy
+
 ---
 Une interface admin pour Eleventy
 
