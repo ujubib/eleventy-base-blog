@@ -7,6 +7,10 @@ eleventyNavigation:
   order: 3
 ---
 
+### Journées Omeka 2020 (Nancy)
+
+> Gaelle Chancerel, Julien Rabaud. [*Bibliothèque Omeka Jacques Blot : Valorisation d'un fonds patrimonial des monuments protohistoriques basques*](https://hal-univ-pau.archives-ouvertes.fr/hal-03025301). Omeka — Projets scientifiques, culturels et/ou documentaires, Octobre 2020, Nancy, France. [⟨hal-03025301⟩](https://hal-univ-pau.archives-ouvertes.fr/hal-03025301)
+
 ### Ateliers BU (UPPA)
 - [Prendre des notes et rédiger en *markdown*](https://atelier-markdown-uppa.netlify.app/#/), mars 2021
 
