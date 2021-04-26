@@ -18,7 +18,7 @@ collections:
       - { label: "Post Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Page"
-    folder: "pages"
+    folder: "about"
     create: false # Change to true to allow editors to create new pages
     slug: ""
     fields:
