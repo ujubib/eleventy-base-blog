@@ -38,6 +38,6 @@ eleventyNavigation:
 |<img src="../../img/logo-discord.png" height=50 />|Discord|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[Julien R#6091](https://discord.com/channels/@me)|``|
 |<img src="../../img/" height=50 />|YouTube|<img src="../../img/" height=50 />|[uju81990](https://www.youtube.com/channel/UCRIIK4i9cIrPf_Zf6GBGFMw)|`https://www.youtube.com/channel/UCRIIK4i9cIrPf_Zf6GBGFMw`|
 |<img src="../../img/" height=50 />|Vimeo|<img src="../../img/" height=50 />|[Uju Bib](https://vimeo.com/ujubib)|`https://vimeo.com/ujubib`|
-|<img src="../../img/" height=50 />|Spotify|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[1122448114](https://www.spotify.com/fr/account/overview/)|``|
+|<img src="../../img/" height=50 />|Spotify|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[Uju Bib](https://open.spotify.com/user/1122448114)|`https://open.spotify.com/user/1122448114`|
 
 
