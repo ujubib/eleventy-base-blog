@@ -25,7 +25,7 @@ eleventyNavigation:
 |<img src="../../img/slides.png" height=50 />|Slides|<img src="../../img/PP-slides.jpg" height=50 />|[Uju Bib](https://slides.com/ujubib)|`https://slides.com/ujubib`|
 |<img src="../../img/zotero.png" height=50 />|Zotero|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[Julien Rabaud](https://www.zotero.org/ujubib)|`https://www.zotero.org/ujubib`|
 |<img src="../../img/logo-hal.png" height=50 />|HAL|<img src="../../img/PP-HAL.jpg" height=50 />|[julien-rabaud](https://cv.archives-ouvertes.fr/julien-rabaud)|`https://cv.archives-ouvertes.fr/julien-rabaud`|
-|<img src="../../img/" height=50 />|Academia|<img src="../../img/" height=50 />||``|
+|<img src="../../img/" height=50 />|Academia|<img src="../../img/PP-LinkedIn.jfif" height=50 />|[Julien Rabaud](https://univ-pau.academia.edu/UjuBib)|`https://univ-pau.academia.edu/UjuBib`|
 |<img src="../../img/" height=50 />|ResearchGate|<img src="../../img/" height=50 />||``|
 |<img src="../../img/" height=50 />|Diigo|<img src="../../img/" height=50 />||``|
 |<img src="../../img/" height=50 />|Pocket|<img src="../../img/" height=50 />||``|
