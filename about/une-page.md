@@ -30,7 +30,7 @@ eleventyNavigation:
 |<img src="../../img/" height=50 />|Diigo|<img src="../../img/" height=50 />|[ujulien](https://www.diigo.com/user/ujulien)|`https://www.diigo.com/user/ujulien`|
 |<img src="../../img/" height=50 />|Pocket|<img src="../../img/" height=50 />|[Julien R](https://getpocket.com/@eb6gldUFp9065A4329T3fR8T77A8p5f6403ib0D2f3EcU8mb990g0h39R75lLby3)|`https://getpocket.com/@eb6gldUFp9065A4329T3fR8T77A8p5f6403ib0D2f3EcU8mb990g0h39R75lLby3`|
 |<img src="../../img/" height=50 />|Inventaire.io|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[uju_](https://inventaire.io/inventory/uju_)|`https://inventaire.io/inventory/uju_`|
-|<img src="../../img/" height=50 />|OpenProcessing|<img src="../../img/" height=50 />||``|
+|<img src="../../img/" height=50 />|OpenProcessing|<img src="../../img/" height=50 />|[Julien](https://openprocessing.org/user/28142)|`https://openprocessing.org/user/28142`|
 |<img src="../../img/" height=50 />|OSF|<img src="../../img/" height=50 />||``|
 |<img src="../../img/" height=50 />|Netvibes|<img src="../../img/" height=50 />||``|
 |<img src="../../img/" height=50 />|Publons|<img src="../../img/" height=50 />||``|
