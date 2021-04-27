@@ -26,10 +26,10 @@ eleventyNavigation:
 |<img src="../../img/zotero.png" height=50 />|Zotero|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[Julien Rabaud](https://www.zotero.org/ujubib)|`https://www.zotero.org/ujubib`|
 |<img src="../../img/logo-hal.png" height=50 />|HAL|<img src="../../img/PP-HAL.jpg" height=50 />|[julien-rabaud](https://cv.archives-ouvertes.fr/julien-rabaud)|`https://cv.archives-ouvertes.fr/julien-rabaud`|
 |<img src="../../img/" height=50 />|Academia|<img src="../../img/PP-LinkedIn.jfif" height=50 />|[Julien Rabaud](https://univ-pau.academia.edu/UjuBib)|`https://univ-pau.academia.edu/UjuBib`|
-|<img src="../../img/" height=50 />|ResearchGate|<img src="../../img/" height=50 />||``|
-|<img src="../../img/" height=50 />|Diigo|<img src="../../img/" height=50 />||``|
-|<img src="../../img/" height=50 />|Pocket|<img src="../../img/" height=50 />||``|
-|<img src="../../img/" height=50 />|Inventaire.io|<img src="../../img/" height=50 />||``|
+|<img src="../../img/" height=50 />|ResearchGate|<img src="../../img/" height=50 />|[Uju Bib](https://www.researchgate.net/profile/Uju-Bib)|`https://www.researchgate.net/profile/Uju-Bib`|
+|<img src="../../img/" height=50 />|Diigo|<img src="../../img/" height=50 />|[ujulien](https://www.diigo.com/user/ujulien)|`https://www.diigo.com/user/ujulien`|
+|<img src="../../img/" height=50 />|Pocket|<img src="../../img/" height=50 />|[Julien R](https://getpocket.com/@eb6gldUFp9065A4329T3fR8T77A8p5f6403ib0D2f3EcU8mb990g0h39R75lLby3)|`https://getpocket.com/@eb6gldUFp9065A4329T3fR8T77A8p5f6403ib0D2f3EcU8mb990g0h39R75lLby3`|
+|<img src="../../img/" height=50 />|Inventaire.io|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[uju_](https://inventaire.io/inventory/uju_)|`https://inventaire.io/inventory/uju_`|
 |<img src="../../img/" height=50 />|OpenProcessing|<img src="../../img/" height=50 />||``|
 |<img src="../../img/" height=50 />|OSF|<img src="../../img/" height=50 />||``|
 |<img src="../../img/" height=50 />|Netvibes|<img src="../../img/" height=50 />||``|
