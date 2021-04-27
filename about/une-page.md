@@ -32,6 +32,14 @@ eleventyNavigation:
 |<img src="../../img/logo-inventaire.jfif" height=50 />|Inventaire.io|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[uju_](https://inventaire.io/inventory/uju_)|`https://inventaire.io/inventory/uju_`|
 |<img src="../../img/logo-Openprocessing.png" height=50 />|OpenProcessing|<img src="../../img/PP-Openprocessing.jpg" height=50 />|[Julien](https://openprocessing.org/user/28142)|`https://openprocessing.org/user/28142`|
 |<img src="../../img/logo-osf.png" height=50 />|OSF|<img src="../../img/PP-osf.png" height=50 />|[Julien Rabaud](https://osf.io/qtju5/)|`https://osf.io/qtju5/`|
-|<img src="../../img/" height=50 />|Netvibes|<img src="../../img/" height=50 />||``|
-|<img src="../../img/" height=50 />|Publons|<img src="../../img/" height=50 />||``|
-|<img src="../../img/" height=50 />|SlideShare|<img src="../../img/" height=50 />||``|
+|<img src="../../img/logo-netvibes.png" height=50 />|Netvibes|<img src="../../img/PP-netvibes.png" height=50 />|[la lune](https://www.netvibes.com/indexion)|`https://www.netvibes.com/indexion`|
+|<img src="../../img/logo-publons.png" height=50 />|Publons|<img src="../../img/PP-diigo.jpg" height=50 />|[Julien Rabaud](https://publons.com/researcher/4114691/julien-rabaud/)|`https://publons.com/researcher/4114691/julien-rabaud/`|
+|<img src="../../img/logo-slideshare.png" height=50 />|SlideShare|<img src="../../img/PP-slideshare.jpg" height=50 />|[Uju Bib](https://www.slideshare.net/bobb81)|`https://www.slideshare.net/bobb81`|
+|<img src="../../img/logo-discord.png" height=50 />|Discord|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[Julien R#6091](https://discord.com/channels/@me)|``|
+
+youtube
+
+vimeo
+
+spotify
+
