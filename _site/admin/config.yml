@@ -2,6 +2,9 @@ backend:
   name: git-gateway
   branch: master
 publish_mode: editorial_workflow
+site_url: https://uju-11ty.netlify.app/
+display_url: https://uju-11ty.netlify.app/
+locale: 'fr'
 media_folder: "_site/img/uploads"
 public_folder: "/img/uploads"
 collections:
