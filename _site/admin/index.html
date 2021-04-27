@@ -11,6 +11,9 @@
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
     <script>
       CMS.registerPreviewStyle("../../../css/index.css");
+      import CMS from 'netlify-cms-app';
+      import { fr } from 'netlify-cms-locales';
+      CMS.registerLocale('fr', fr);
     </script>
   </body>
 </html>
