@@ -1,10 +1,11 @@
 ---
 layout: layouts/post.njk
-title: Intégration d'une Bibliothèque de groupe Zotero sur YesWiki
-date: 2021-05-03T22:00:00.000Z
+title: "Intégration d'une Bibliothèque de groupe Zotero sur YesWiki"
+date: 2021-05-02T22:00:00.000Z
 tags:
-  - zotero
-  - yeswiki
+  - Zotero
+  - YesWiki
+
 ---
 
 ### Page de test sur un wiki pers
