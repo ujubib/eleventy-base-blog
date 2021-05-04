@@ -26,7 +26,7 @@ eleventyNavigation:
   - Site pour héberger des listes de publications déposables (par idHAL des chercheurs de l'UPPA)
   - #python, #api, #xml, #xslt, #css, #endnote, #bibtex, #csv, #COinS, #Zotero 
 
-<hr style="border:none;border-top:5px dashed deeppink;max-width:42em;margin:0px;margin-top:2em;" />
+<hr style="border:none;border-top:2px dashed deeppink;max-width:42em;margin:0px;margin-top:2em;" />
 
 #### Un petit sketch sur OpenProcessing ;)
 <iframe src="https://openprocessing.org/sketch/117229/embed/" width="400" height="400"></iframe>

@@ -7,10 +7,14 @@ tags:
   - blot
   - regex
 ---
-***
+
+<hr style="border:none;border-top:2px dashed deeppink;max-width:42em;margin:0px;margin-top:2em;" />
+
 La balise `<details>` est merveilleuse.  
 Elle permet de replier son contenu. Idéal pour les notices de monuments (j'aurais du la connaître plus tôt). --> `<details>` sur [MDN Web Docs](https://developer.mozilla.org/fr/docs/Web/HTML/Element/details).
-***
+
+<hr style="border:none;border-top:2px dashed deeppink;max-width:42em;margin:0px;margin-top:2em;" />
+
 (Schéma) de regex pour remplacer les `<h3>` en `<details>` (en conservant les attributs) dans l'[*inventaire blot html*](https://inventaire-blot.netlify.app/final2.html) [`final2.html`].
 
 ### Regex 1
