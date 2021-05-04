@@ -7,9 +7,16 @@ eleventyNavigation:
   order: 4
   key: Présence en ligne
 ---
+***
 ### Tumblr
-- [La fausse sceptique](https://sceptique.tumblr.com)
+- [La fausse sceptique](https://sceptique.tumblr.com) (belles images & gifs)
   - [Son tumbview (en mode diaporama aléatoire)](http://tumbview.com/sceptique/slideshow/random/)
+- [DoOm CetNia](https://doomcetnia.tumblr.com) (extraits de textes)
+- [Eloge du travail comme délire surréel](https://deliresurreel.tumblr.com) (à faire)
+- [cdf_vrac > doc](https://cdfvrac.tumblr.com) [juin 2013 -- septembre 2015]
+
+***
+### Sites et réseaux
 
 |Logo|Site|PP|profil|uri|
 |---|---|---|---|---|
