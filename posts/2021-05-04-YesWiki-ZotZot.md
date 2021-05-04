@@ -12,4 +12,6 @@ tags:
 
 https://ferme.yeswiki.net/zotzot/?ZotZot
 
+- Affichage des collections via l'API dans des balises `<details>` (style : `transversalites.csl`)
+
 <iframe src="https://ferme.yeswiki.net/zotzot/?ZotZot" width="100%" height="520" frameborder="0"></iframe>
