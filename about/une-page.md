@@ -39,7 +39,7 @@ eleventyNavigation:
 |<img src="../../img/logo-ResearchGate.png" height=50 />|ResearchGate|<img src="../../img/PP-ResearchGate.jpg" height=50 />|[Uju Bib](https://www.researchgate.net/profile/Uju-Bib)|`https://www.researchgate.net/profile/Uju-Bib`|
 |<img src="../../img/logo-diigo.png" height=50 />|Diigo|<img src="../../img/PP-diigo.jpg" height=50 />|[ujulien](https://www.diigo.com/user/ujulien)|`https://www.diigo.com/user/ujulien`|
 |<img src="../../img/logo-pocket.png" height=50 />|Pocket|<img src="../../img/PP-pocket.jfif" height=50 />|[Julien R](https://getpocket.com/@eb6gldUFp9065A4329T3fR8T77A8p5f6403ib0D2f3EcU8mb990g0h39R75lLby3)|`https://getpocket.com/@eb6gldUFp9065A4329T3fR8T77A8p5f6403ib0D2f3EcU8mb990g0h39R75lLby3`|
-|<img src="../../img/logo-inventaire.jfif" height=50 />|Inventaire.io|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[uju_](https://inventaire.io/inventory/uju_)|`https://inventaire.io/inventory/uju_`|
+|<img src="../../img/logo-inventaire.jfif" height=50 />|Inventaire|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[uju_](https://inventaire.io/inventory/uju_)|`https://inventaire.io/inventory/uju_`|
 |<img src="../../img/logo-Openprocessing.png" height=50 />|OpenProcessing|<img src="../../img/PP-Openprocessing.jpg" height=50 />|[Julien](https://openprocessing.org/user/28142)|`https://openprocessing.org/user/28142`|
 |<img src="../../img/logo-osf.png" height=50 />|OSF|<img src="../../img/PP-osf.png" height=50 />|[Julien Rabaud](https://osf.io/qtju5/)|`https://osf.io/qtju5/`|
 |<img src="../../img/logo-netvibes.png" height=50 />|Netvibes|<img src="../../img/PP-netvibes.png" height=50 />|[la lune](https://www.netvibes.com/indexion)|`https://www.netvibes.com/indexion`|
