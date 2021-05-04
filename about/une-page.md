@@ -36,8 +36,8 @@ eleventyNavigation:
 |<img src="../../img/logo-publons.png" height=50 />|Publons|<img src="../../img/PP-diigo.jpg" height=50 />|[Julien Rabaud](https://publons.com/researcher/4114691/julien-rabaud/)|`https://publons.com/researcher/4114691/julien-rabaud/`|
 |<img src="../../img/logo-slideshare.png" height=50 />|SlideShare|<img src="../../img/PP-slideshare.jpg" height=50 />|[Uju Bib](https://www.slideshare.net/bobb81)|`https://www.slideshare.net/bobb81`|
 |<img src="../../img/logo-discord.png" height=50 />|Discord|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[Julien R#6091](https://discord.com/channels/@me)|``|
-|<img src="../../img/" height=50 />|YouTube|<img src="../../img/" height=50 />|[uju81990](https://www.youtube.com/channel/UCRIIK4i9cIrPf_Zf6GBGFMw)|`https://www.youtube.com/channel/UCRIIK4i9cIrPf_Zf6GBGFMw`|
-|<img src="../../img/" height=50 />|Vimeo|<img src="../../img/" height=50 />|[Uju Bib](https://vimeo.com/ujubib)|`https://vimeo.com/ujubib`|
-|<img src="../../img/" height=50 />|Spotify|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[Uju Bib](https://open.spotify.com/user/1122448114)|`https://open.spotify.com/user/1122448114`|
+|<img src="../../img/logo-youtube.png" height=50 />|YouTube|<img src="../../img/PP-unnamed.jpg" height=50 />|[uju81990](https://www.youtube.com/channel/UCRIIK4i9cIrPf_Zf6GBGFMw)|`https://www.youtube.com/channel/UCRIIK4i9cIrPf_Zf6GBGFMw`|
+|<img src="../../img/logo-vimeo.png" height=50 />|Vimeo|<img src="../../img/PP-vimeo.webp" height=50 />|[Uju Bib](https://vimeo.com/ujubib)|`https://vimeo.com/ujubib`|
+|<img src="../../img/logo-spotify.png" height=50 />|Spotify|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[Uju Bib](https://open.spotify.com/user/1122448114)|`https://open.spotify.com/user/1122448114`|
 
 
