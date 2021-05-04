@@ -1,26 +1,46 @@
 ---
-title: This is my first post.
+title: "Inventaire Blot html : découverte (et ajout) de la balise `<details>`"
 description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
-tags:
-  - another tag
 layout: layouts/post.njk
+date: 2021-04-04T22:00:00.000Z
+tags:
+  - html
+  - blot
+  - regex
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+La balise `<details>` est merveilleuse :  
+Elle permet de replier le contenu. Idéal pour les notices de monuments. 
+ 
+Regex pour remplacer les `<h3>` en `<details>` (en conservant les attributs) dans l'[inventaire Blot html](https://inventaire-blot.netlify.app/final2.html) [`final2.html`].
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+<details><summary><span style="font-size:1.3em;font-style:italic;color:deeppink">Ce qu'on a :</span></summary>
 
-## Section Header
+```html
+<h3 id="ahaxe---bilgotza-mendebalde-1---tumulus-cromlech"><span class="spatial">Ahaxe</span> - <span class="coverage">Bilgotza Mendebalde</span> 1 - <span class="type">Tumulus-cromlech</span></h3>
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
+<details>
+    <summary>Details</summary>
+    Something small enough to escape casual notice.
+</details>
 ```
+</details>
+
+
+#### Regex 1
+
+|Rechercher|Remplacer|
+|---|---|
+|`<h3($1)>($2)</h3>`|`<details($1)><summary>($2)</summary>`|
+
+
+#### Regex 2
+|Rechercher|Remplacer|
+|---|---|
+|`</section>`|`</details></section>`|
+
+
+
+
+
+
+#Yapluka
