@@ -13,4 +13,6 @@ Une interface admin pour Eleventy
 
 J'ai galéré à activer *Netlify Identity* : je n'avais pas copié le script dans le template `base.njk`.
 
-<img src="_site/img/uploads/netlifycms.png" width="100%"></img>
+![](/img/uploads/netlifycms.png)
+
+![](/img/uploads/netlifycms2.png)
