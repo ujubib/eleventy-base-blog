@@ -46,5 +46,5 @@ eleventyNavigation:
 |<img src="../../img/logo-youtube.png" height=50 />|YouTube|<img src="../../img/PP-unnamed.jpg" height=50 />|[uju81990](https://www.youtube.com/channel/UCRIIK4i9cIrPf_Zf6GBGFMw)|`https://www.youtube.com/channel/UCRIIK4i9cIrPf_Zf6GBGFMw`|
 |<img src="../../img/logo-vimeo.png" height=50 />|Vimeo|<img src="../../img/PP-vimeo.webp" height=50 />|[Uju Bib](https://vimeo.com/ujubib)|`https://vimeo.com/ujubib`|
 |<img src="../../img/logo-spotify.png" height=50 />|Spotify|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 />|[Uju Bib](https://open.spotify.com/user/1122448114)|`https://open.spotify.com/user/1122448114`|
-
+|<img src="../../img/logo-soundcloud.png" height=50 />|SoundCloud|<img src="../../img/PP-soundcloud.jpg" height=50 />|[Uju Bib](https://soundcloud.com/uju-bib)|`https://soundcloud.com/uju-bib`|
 
