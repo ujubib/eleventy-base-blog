@@ -47,7 +47,6 @@ Ces champs sont mobilisables pour le tri, les listes, l'affichage dans des templ
 
 ![Gabarit de citation d'un article bibtex](/img/TW-Excel/tw-bibtex-gabcitart.png)  
 Tiddler 'GabCitArt' : template pour afficher un tiddler bibtex (titre du tiddler = clé bibtex) dans un autre tiddler :  
-s'utilise en ajoutant le code `{{mouratDesignFantomatiqueCommunautes2018||GabCitArt}}`
 
 Un autre plugin, [Dynamic tables](https://ooktech.com/jed/ExampleWikis/DynamicTables/) (installé dans mon `empty`), vous permet d'éditer (plus ou moins simplement) les champs dans un tableau de tiddlers (une ligne par tiddler, champs en colonnes), résultat d'une requête (sur tags ou sur champs 'customisés').
 
