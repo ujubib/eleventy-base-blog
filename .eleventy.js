@@ -7,20 +7,17 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const pluginTOC = require('eleventy-plugin-toc')
  
-module.exports = function (eleventyConfig) {
+module.exports = function(eleventyConfig) {
+  // Add plugins
+  eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(pluginSyntaxHighlight);
+  eleventyConfig.addPlugin(pluginNavigation);
   eleventyConfig.addPlugin(pluginTOC, {
     tags: ['h2', 'h3', 'h4', 'h5'],
     wrapper: 'div',
     wrapperClass: 'toc',
     ul: true
   })
-}
-
-module.exports = function(eleventyConfig) {
-  // Add plugins
-  eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(pluginSyntaxHighlight);
-  eleventyConfig.addPlugin(pluginNavigation);
 
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
