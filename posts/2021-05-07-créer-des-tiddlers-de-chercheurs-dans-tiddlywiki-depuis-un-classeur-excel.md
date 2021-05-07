@@ -8,7 +8,9 @@ tags:
   - idHAL
   - idref
   - orcid
+
 ---
+
 ### Introduction
 
 Je teste Obsidian depuis presque un an un peu pour suivre la mode un peu parce que le ticket d'entrée est quasi nul quand on vient de 7 ans de WikiText et aussi parce que le concept de 'carnet de fichiers markdown' est extrêment simple et bien plus 'portable'. 
