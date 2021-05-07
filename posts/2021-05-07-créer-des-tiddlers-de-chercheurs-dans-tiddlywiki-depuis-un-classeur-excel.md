@@ -49,6 +49,15 @@ Un autre plugin, [Dynamic tables](https://ooktech.com/jed/ExampleWikis/DynamicTa
 
 ![screenshot Dynamic tables, idhal d'un labo]()
 
+#### Le champs 'caption'
+
+Sympathique pour les noms, s'affiche à la place du champ 'title' du tiddler dans les listes.
+
+exemple :
+- title : `Martin, Pierre`
+- caption : `Pierre Martin`
+
+
 ### Le plugin [XLSX Utils](http://tiddlywiki.com/prerelease/editions/xlsx-utils/)
 
 Le plugin [XLSX Utils](http://tiddlywiki.com/prerelease/editions/xlsx-utils/) permet de créer un tiddler par ligne avec des champs en colonne et les valeurs peuplées pour chaque tiddler créé.
@@ -60,4 +69,30 @@ Un paramétrage adéquat du plugin va créer les bons tiddlers, avec les bons ta
 ![screenshot paramétrage]()
 
 ### Produire des listes en affichant/filtrant les champs
+
+- des listes simples
+
+```
+code 1
+```
+
+![screenshot liste simple]()
+
+- des listes html
+
+```
+code 2
+```
+
+![screenshot liste htm]()
+
+- des tableaux html
+
+```
+code 3
+```
+
+![screenshot liste tableau html]()
+
+
 
