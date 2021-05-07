@@ -11,7 +11,9 @@ templateClass: tmpl-post
 <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
 {%- endfor %}
 
+{% if content | toc %}
 {{ content | toc | safe }}
+{% endif %}
 
 <hr style="border:none;border-top:2px dashed deeppink;max-width:42em;margin:0px;margin-top:1.8em;" />
 
