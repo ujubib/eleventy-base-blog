@@ -1,11 +1,10 @@
 ---
 layout: layouts/post.njk
-title: "Intégration d'une Bibliothèque de groupe Zotero sur YesWiki"
+title: Intégration d'une Bibliothèque de groupe Zotero sur YesWiki
 date: 2021-05-02T22:00:00.000Z
 tags:
   - Zotero
   - YesWiki
-
 ---
 
 ### Le groupe Zotero .org :
@@ -13,11 +12,29 @@ tags:
 - [Gouvernance partagée](https://www.zotero.org/groups/2764723/gouvernance_partage)
 - `https://www.zotero.org/groups/2764723/gouvernance_partage`
 
+### Question sur le Forum Zotero
+
+<https://forums.zotero.org/discussion/89321/links-between-websites-and-zotero-group-libraries>
+
+
 ### Page de test sur un YesWiki lambda
 
-https://ferme.yeswiki.net/zotzot/?ZotZot
+<https://ferme.yeswiki.net/zotzot/?ZotZot>
 
-- Affichage des collections via l'API dans des balises `<details>` (style : `transversalites.csl`)
+#### Degré zéro : Affichage des collections du groupe via l'API
+
+Dans des balises `<details>` (style : *transversalites.csl*)
+
+`https://api.zotero.org/groups/XXXXXXX/collections/XXXXXXX/items/top?format=bib&style=transversalites&locale=fr-FR&linkwrap=1`
+
   (Double-clic dans la page pour voir le code)
 
   <iframe src="https://ferme.yeswiki.net/zotzot/?ZotZot" width="100%" height="520" frameborder="0"></iframe>
+
+#### Module Bazar ???
+
+- à tester
+
+- formats ?
+
+- synchronisation ?
