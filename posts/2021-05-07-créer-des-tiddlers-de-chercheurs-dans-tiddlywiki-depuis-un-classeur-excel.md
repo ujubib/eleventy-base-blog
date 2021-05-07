@@ -11,11 +11,11 @@ tags:
 ---
 ### Introduction
 
-Je teste Obsidian depuis presque un an pour suivre la mode et parce que le ticket d'entrée est quasi nul quand on vient de 7 ans de WikiText (et le résultat excellent et bien plus 'portable'). 
+Je teste Obsidian depuis presque un an un peu pour suivre la mode un peu parce que le ticket d'entrée est quasi nul quand on vient de 7 ans de WikiText et aussi parce que le concept de 'carnet de fichiers markdown' est extrêment simple et bien plus 'portable'. 
 
-En effet mon vrai amour de notebook est TiddlyWiki.
+Mais mon vrai systeme de notebook coup de cœur, c'est [TiddlyWiki](https://tiddlywiki.com).
 
-![logo TW]()
+![logo TW](/img/TW-Excel/téléchargement.ico)
 
 Ce n'est pas un 'vrai' wiki au sens où il n'est pas nativement collaboratif et ne gère pas les 'versions' de vos 'tiddlers' (entrées). C'est plutôt un notebook personnel avec des fonctions d'édition et de liens internes avancées (et très extensibles et personnalisables).
 
@@ -23,7 +23,7 @@ Il s'agit concrètement d'un seul fichier html 'gavé' de javascript.
 
 J'en créais un par conférence, atelier, formation... 
 
-![dossier TW](/img/uploads/tiddly1.png)  
+![dossier TW](/img/TW-Excel/tiddly1.png)  
 
 Aujourd'hui il m'en reste 3 "en production", dont un pour l'administration du portail HAL-e2s-UPPA (Université de Pau et des Pays de l'Adour). Ils sont sur le gitlab de l'université.  
 
@@ -39,21 +39,23 @@ Ce fichier est directement utilisable, changez le nom et enregistrez vos modific
 
 ### Les champs d'un Tiddler
 
-![screenshot chercheur]()
+![screenshot chercheur](/img/TW-Excel/TW-champsChercheurs.png)
 
 Un 'tiddler' (tuile?) est une entrée du (tiddly)wiki. Il y a un champ 'text' où l'on écrit en wikitext (il y a un plugin markdown cependant), mais il y a aussi (et surtout pour nous) la possibilité d'ajouter (et d'éditer ensuite) autant de champs que l'on veut (par exemple : `labo`, `équipe`, `date d'entrée`, `idhal_s`, `idhal_i`, `idref`, `orcid`, `notes`...)
 
-Ces champs sont mobilisables pour le tri, les listes, l'affichage dans des templates (par exemple un plugin BibTeX crée des tiddlers avec des champs 'bibtex').
+Ces champs sont mobilisables pour le tri, les listes, l'affichage dans des templates (par exemple le plugin BibTeX permet par lecture de fichiers .bib la création de tiddlers avec des champs 'bibtex').*
 
-![screenshot bibtex]()
+![Gabarit de citation d'un article bibtex](img/../../img/TW-Excel/tw-bibtex-gabcitart.png)  
+Tiddler 'GabCitArt' : template pour afficher un tiddler bibtex (titre du tiddler = clé bibtex) dans un autre tiddler :  
+s'utilise en ajoutant le code `{{mouratDesignFantomatiqueCommunautes2018||GabCitArt}}`
 
-Un autre plugin, [Dynamic tables](https://ooktech.com/jed/ExampleWikis/DynamicTables/) (installé dans mon `empty`), vous permet d'éditer (plus ou moins) simplement les champs dans un tableau de tiddlers (une ligne par tiddler, champs en colonnes), résultat d'une requête (sur tags ou sur champs 'customisés').
+Un autre plugin, [Dynamic tables](https://ooktech.com/jed/ExampleWikis/DynamicTables/) (installé dans mon `empty`), vous permet d'éditer (plus ou moins simplement) les champs dans un tableau de tiddlers (une ligne par tiddler, champs en colonnes), résultat d'une requête (sur tags ou sur champs 'customisés').
 
-![screenshot Dynamic tables, idhal d'un labo]()
+![screenshot Dynamic tables, idhal d'un labo](/img/TW-Excel/tw-dynamictables.png)
 
 #### Le champs 'caption'
 
-Sympathique pour les noms, s'affiche à la place du champ 'title' du tiddler dans les listes.
+Sympathique pour les noms, s'affiche à la place du champ 'title' du tiddler dans les listes (tri sur le titre).
 
 exemple :
 - title : `Martin, Pierre`
@@ -68,7 +70,7 @@ Le plugin [XLSX Utils](http://tiddlywiki.com/prerelease/editions/xlsx-utils/) pe
 
 Un paramétrage adéquat du plugin va créer les bons tiddlers, avec les bons tags (un champs standard) et les bons champs 'customisés'.
 
-![screenshot paramétrage]()
+![screenshot paramétrage](/img/TW-Excel/tw-xlsxutils.png)
 
 ### Produire des listes en affichant/filtrant les champs
 
