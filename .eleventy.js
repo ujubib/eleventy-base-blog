@@ -5,6 +5,16 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const pluginTOC = require('eleventy-plugin-toc')
+ 
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(pluginTOC, {
+    tags: ['h2', 'h3', 'h4', 'h5'],
+    wrapper: 'div',
+    wrapperClass: 'toc',
+    ul: true
+  })
+}
 
 module.exports = function(eleventyConfig) {
   // Add plugins
