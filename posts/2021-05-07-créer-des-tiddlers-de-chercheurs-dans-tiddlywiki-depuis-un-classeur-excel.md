@@ -12,7 +12,7 @@ tags:
 ### Introduction
 
 Je teste Obsidian depuis presque un an pour suivre la mode et parce que le ticket d'entrée est quasi nul quand on vient de 5 ans de WikiText (et le résultat excellent et bien plus 'portable'). En effet mon vrai amour de notebook est TiddlyWiki.  
-J'en créais un par conférence, atelier, formation... ![dossier TW](tiddly1.png)  
+J'en créais un par conférence, atelier, formation... ![dossier TW](_site/img/uploads/tiddly1.png)  
 Aujourd'hui il m'en reste 3 "en production", dont un pour l'administration du portail HAL-e2s-UPPA (Université de Pau et des Pays de l'Adour). Ils sont sur le gitlab de l'université.  
 
 Je n'ai pas encore testé les versions Node.js mais ça à l'air merveilleux :)
