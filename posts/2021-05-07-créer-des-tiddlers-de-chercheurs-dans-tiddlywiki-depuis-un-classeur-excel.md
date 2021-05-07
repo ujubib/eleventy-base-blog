@@ -43,7 +43,7 @@ Ce fichier est directement utilisable, changez le nom et enregistrez vos modific
 
 Un 'tiddler' (tuile?) est une entrée du (tiddly)wiki. Il y a un champ 'text' où l'on écrit en wikitext (il y a un plugin markdown cependant), mais il y a aussi (et surtout pour nous) la possibilité d'ajouter (et d'éditer ensuite) autant de champs que l'on veut (par exemple : `labo`, `équipe`, `date d'entrée`, `idhal_s`, `idhal_i`, `idref`, `orcid`, `notes`...)
 
-Ces champs sont mobilisables pour le tri, les listes, l'affichage dans des templates (par exemple le plugin BibTeX permet par lecture de fichiers .bib la création de tiddlers avec des champs 'bibtex').*
+Ces champs sont mobilisables pour le tri, les listes, l'affichage dans des templates (par exemple le plugin BibTeX permet par lecture de fichiers .bib la création de tiddlers avec des champs 'bibtex').
 
 ![Gabarit de citation d'un article bibtex](img/../../img/TW-Excel/tw-bibtex-gabcitart.png)  
 Tiddler 'GabCitArt' : template pour afficher un tiddler bibtex (titre du tiddler = clé bibtex) dans un autre tiddler :  
