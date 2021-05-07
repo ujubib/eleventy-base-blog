@@ -15,8 +15,6 @@ Je teste Obsidian depuis presque un an un peu pour suivre la mode un peu parce q
 
 Mais mon vrai systeme de notebook coup de cœur, c'est [TiddlyWiki](https://tiddlywiki.com).
 
-![logo TW](/img/TW-Excel/téléchargement.ico)
-
 Ce n'est pas un 'vrai' wiki au sens où il n'est pas nativement collaboratif et ne gère pas les 'versions' de vos 'tiddlers' (entrées). C'est plutôt un notebook personnel avec des fonctions d'édition et de liens internes avancées (et très extensibles et personnalisables).
 
 Il s'agit concrètement d'un seul fichier html 'gavé' de javascript. 
