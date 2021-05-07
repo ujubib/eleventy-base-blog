@@ -45,7 +45,7 @@ Un 'tiddler' (tuile?) est une entrée du (tiddly)wiki. Il y a un champ 'text' o�
 
 Ces champs sont mobilisables pour le tri, les listes, l'affichage dans des templates (par exemple le plugin BibTeX permet par lecture de fichiers .bib la création de tiddlers avec des champs 'bibtex').
 
-![Gabarit de citation d'un article bibtex](img/../../img/TW-Excel/tw-bibtex-gabcitart.png)  
+![Gabarit de citation d'un article bibtex](/img/TW-Excel/tw-bibtex-gabcitart.png)  
 Tiddler 'GabCitArt' : template pour afficher un tiddler bibtex (titre du tiddler = clé bibtex) dans un autre tiddler :  
 s'utilise en ajoutant le code `{{mouratDesignFantomatiqueCommunautes2018||GabCitArt}}`
 
