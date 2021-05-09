@@ -42,10 +42,10 @@ hr.top {
 }
 
 .toc {
-  font-style: italic;
-  letter-spacing: 2px;
-  font-size: 0.9em;
-  line-height: 1.3em;
+  font-family: monospace;
+  letter-spacing: 3px;
+  font-size: 0.8em;
+  line-height: 1.2em;
 }
 
 .toc a[href] {
