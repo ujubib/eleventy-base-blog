@@ -49,15 +49,15 @@ hr.top {
 }
 
 .toc a[href] {
-  color: PeachPuff;
+  color: LightSalmon;
   text-decoration: none;
 }
 .toc a[href]:hover {
-  color: PeachPuff;
+  color: lime;
 }
 
 .toc a[href]:visited {
-  color: PeachPuff;
+  color: LightSalmon;
 }
 
 .toc ul, .toc ol {
