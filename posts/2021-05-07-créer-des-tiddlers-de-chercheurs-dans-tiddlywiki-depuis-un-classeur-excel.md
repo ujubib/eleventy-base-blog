@@ -8,20 +8,19 @@ tags:
   - idHAL
   - idref
   - orcid
-
 ---
 
-### Introduction
+### TiddlyWiki et moi
 
-Je teste Obsidian depuis presque un an un peu pour suivre la mode un peu parce que le ticket d'entrée est quasi nul quand on vient de 7 ans de WikiText et aussi parce que le concept de 'carnet de fichiers markdown' est extrêment simple et bien plus 'portable'. 
+Je teste *Obsidian* depuis presque un an, un peu pour suivre la mode, un peu parce que le ticket d'entrée est quasi nul quand on vient de 7 ans de *WikiText* mais surtout parce que le concept de 'carnet de fichiers markdown' est extrêmement simple et bien plus *portable*. C'est très satisfaisant au final. 
 
 Mais mon vrai systeme de notebook coup de cœur, c'est [TiddlyWiki](https://tiddlywiki.com).
 
-Ce n'est pas un 'vrai' wiki au sens où il n'est pas nativement collaboratif et ne gère pas les 'versions' de vos 'tiddlers' (entrées). C'est plutôt un notebook personnel avec des fonctions d'édition et de liens internes avancées (et très extensibles et personnalisables).
+Ce n'est pas un **vrai** wiki au sens où il n'est pas nativement collaboratif et ne gère pas les **versions** de vos *tiddlers* (entrées). C'est plutôt un notebook personnel avec des fonctions d'**édition** et de **liens internes** avancées (et très extensibles et personnalisables).
 
-Il s'agit concrètement d'un seul fichier html 'gavé' de javascript. 
+Il s'agit concrètement d'un seul fichier html *gavé* de javascript. 
 
-J'en créais un par conférence, atelier, formation... 
+Pour mes notes, j'en créais un par conférence, atelier, formation... 
 
 ![dossier TW](/img/TW-Excel/tiddly1.png)  
 
@@ -29,28 +28,36 @@ Aujourd'hui il m'en reste 3 "en production", dont un pour l'administration du po
 
 [Je n'ai pas encore testé les versions `Node.js` mais ça à l'air merveilleux !]
 
-### Empty TiddlyWiki
+#### Empty TiddlyWiki
 
-Je mets à disposition un TiddlyWiki vide avec les extensions qui me sont utiles (dont l'importateur Excel dont il va être question ici), décrites dans le tiddler 'Options'.
+Je mets à disposition un TiddlyWiki vide avec les extensions qui me sont utiles (dont l'importateur Excel dont il va être question ici).
 
-à télécharger ici : [empty_fr_5-1-22.html](https://git.univ-pau.fr/jrabaud001/tw/-/blob/master/empty_fr_5-1-22.html)  (7,27 Mo - Gitlab UPPA)
+à télécharger ici : [empty_fr_5-1-22.html](https://git.univ-pau.fr/jrabaud001/tw/-/blob/master/empty_fr_5-1-22.html)  (7,27 Mo - Gitlab UPPA)  
+Mes modifications sont décrites dans le *Tiddler* `Options`
 
-Ce fichier est directement utilisable, changez le nom et enregistrez vos modifications : vous avez un wiki.
+Ce fichier est directement utilisable, changez le nom, enregistrez régulièrement vos modifications (*voir dans le panneau de configuration du wiki, roue denté*) : vous avez un nouveau Wiki (un *TiddlyWiki* autonome).
 
-### Les champs d'un Tiddler
+### Les champs d'un *Tiddler*
 
-![screenshot chercheur](/img/TW-Excel/TW-champsChercheurs.png)
+![Screenshot chercheur](/img/TW-Excel/TW-champsChercheurs.png)
 
-Un 'tiddler' (tuile?) est une entrée du (tiddly)wiki. Il y a un champ 'text' où l'on écrit en wikitext (il y a un plugin markdown cependant), mais il y a aussi (et surtout pour nous) la possibilité d'ajouter (et d'éditer ensuite) autant de champs que l'on veut (par exemple : `labo`, `équipe`, `date d'entrée`, `idhal_s`, `idhal_i`, `idref`, `orcid`, `notes`...)
+Un *tiddler* (tuile?) est une entrée du (tiddly)wiki. Il y a un champ `text` où l'on écrit en wikitext (*il y a un plugin markdown cependant*), mais il y a aussi (et surtout pour nous) la possibilité d'ajouter (et d'éditer ensuite) autant de champs que l'on veut (par exemple : `labo`, `équipe`, `date d'entrée`, `idhal_s`, `idhal_i`, `idref`, `orcid`, `notes`...)
 
-Ces champs sont mobilisables pour le tri, les listes, l'affichage dans des templates (par exemple le plugin BibTeX permet par lecture de fichiers .bib la création de tiddlers avec des champs 'bibtex').
+Ces champs sont mobilisables pour le tri, les listes, l'affichage dans des templates (par exemple le plugin BibTeX permet à la lecture de fichiers `.bib` la création de tiddlers avec des champs de type `bibtex-propriété`).
 
 ![Gabarit de citation d'un article bibtex](/img/TW-Excel/tw-bibtex-gabcitart.png)  
-Tiddler 'GabCitArt' : template pour afficher un tiddler bibtex (titre du tiddler = clé bibtex) dans un autre tiddler :  
+Tiddler 'GabCitArt' : template pour afficher un tiddler bibtex (titre du tiddler = clé bibtex) dans un autre tiddler avec une syntaxe de type transclusion : `{{NomDuTiddlerRefBib!!GabCitArt}}` (remplacer `!!` par deux pipes qui font planter *eleventy*...)
+
+![Screenshot Biblio Robin de Mourat]()
 
 Un autre plugin, [Dynamic tables](https://ooktech.com/jed/ExampleWikis/DynamicTables/) (installé dans mon `empty`), vous permet d'éditer (plus ou moins simplement) les champs dans un tableau de tiddlers (une ligne par tiddler, champs en colonnes), résultat d'une requête (sur tags ou sur champs 'customisés').
 
 ![screenshot Dynamic tables, idhal d'un labo](/img/TW-Excel/tw-dynamictables.png)
+
+le code : 
+- `<<RawTable` : appel d'une macro installée par le plugin *Dynamic Tables*
+- `[tag[LATEP]tag[publiant]]` : filtre les **tiddlers** à afficher (en lignes, *RawTable*)
+- `[[idHAL_i]][[idHAL_s]][[ind]][[orcid]][[idref]][[note]]` : liste les **champs** à afficher/éditer (en colonnes), même si ces champs n'existent pas encore dans les tiddlers !!!
 
 #### Le champs 'caption'
 
@@ -65,9 +72,9 @@ exemple :
 
 Le plugin [XLSX Utils](http://tiddlywiki.com/prerelease/editions/xlsx-utils/) permet de créer un tiddler par ligne avec des champs en colonne et les valeurs peuplées pour chaque tiddler créé.
 
-![screenshot feuille excel]()
+![screenshot ou lien feuille excel]()
 
-Un paramétrage adéquat du plugin va créer les bons tiddlers, avec les bons tags (un champs standard) et les bons champs 'customisés'.
+Un paramétrage adéquat du plugin va créer les bons tiddlers, avec les bons tags (un champs standard) et les bons champs *customisés*.
 
 ![screenshot paramétrage](/img/TW-Excel/tw-xlsxutils.png)
 
