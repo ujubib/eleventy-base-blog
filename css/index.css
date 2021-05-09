@@ -29,23 +29,34 @@ p:last-child {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  color:orange;
+  color:LightSalmon;
+}
+
+hr.top {
+  border:none;
+  border-top:1px dashed LightSalmon;
+  
+  margin:0px;
+  margin-top:1em;
 }
 
 .toc {
-  font-family: monospace;
+  font-style: italic;
+  letter-spacing: 2em;
   font-size: 0.9em;
+  line-height: 1.1em;
 }
 
 .toc a[href] {
-  color: LightGrey;
+  color: PeachPuff;
+  text-decoration: none;
 }
 .toc a[href]:hover {
-  color: LightGrey;
+  color: PeachPuff;
 }
 
 .toc a[href]:visited {
-  color: LightGrey;
+  color: PeachPuff;
 }
 
 .toc ul, .toc ol {
