@@ -73,12 +73,14 @@ p,
 .tmpl-post li {
   line-height: 1.45;
 }
+
 a[href] {
   color: var(--blue);
 }
 a[href]:hover {
   color: var(--gray);
 }
+
 a[href]:visited {
   color: var(--blue);
 }
@@ -134,7 +136,7 @@ pre {
   hyphens: none;
   padding: 1em;
   margin: .5em 0;
-  background-color: #f6f6f6;
+  background-color: #422121;
 }
 code {
   word-break: break-all;
