@@ -79,6 +79,7 @@ a[href] {
 }
 a[href]:hover {
   color: var(--gray);
+}
 a[href]:visited {
   color: var(--navy);
 }
