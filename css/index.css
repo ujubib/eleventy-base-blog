@@ -80,8 +80,9 @@ a[href]:hover {
   color: var(--gray);
 }
 a[href]:visited {
-  color: var(--navy);
+  color: var(--blue);
 }
+
 time {
   color:lightsalmon;
   font-family: monospace;
