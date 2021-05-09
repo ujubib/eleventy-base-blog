@@ -8,8 +8,6 @@ eleventyNavigation:
   key: Présence en ligne
 ---
 
-<hr style="border:none;border-top:2px dashed deeppink;max-width:42em;margin:0px;margin-top:2em;" />
-
 ### Tumblr
 - [La fausse sceptique](https://sceptique.tumblr.com) (belles images & gifs)
   - [Son tumbview (en mode diaporama aléatoire)](http://tumbview.com/sceptique/slideshow/random/)
