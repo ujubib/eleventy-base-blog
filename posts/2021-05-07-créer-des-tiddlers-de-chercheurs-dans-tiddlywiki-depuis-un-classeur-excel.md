@@ -32,8 +32,8 @@ Aujourd'hui il m'en reste 3 "en production", dont un pour l'administration du po
 
 Je mets à disposition un TiddlyWiki vide avec les extensions qui me sont utiles (dont l'importateur Excel dont il va être question ici).
 
-à télécharger ici : [empty_fr_5-1-22.html](https://git.univ-pau.fr/jrabaud001/tw/-/blob/master/empty_fr_5-1-22.html)  (7,27 Mo - Gitlab UPPA)  
-Mes modifications sont décrites dans le *Tiddler* `Options`
+- à télécharger ici : [empty_fr_5-1-22.html](https://git.univ-pau.fr/jrabaud001/tw/-/blob/master/empty_fr_5-1-22.html)  (7,27 Mo - Gitlab UPPA)
+  - Mes modifications sont décrites dans le *Tiddler* `Options`
 
 Ce fichier est directement utilisable, changez le nom, enregistrez régulièrement vos modifications (*voir dans le panneau de configuration du wiki, roue denté*) : vous avez un nouveau Wiki (un *TiddlyWiki* autonome).
 
@@ -46,7 +46,7 @@ Un *tiddler* (tuile?) est une entrée du (tiddly)wiki. Il y a un champ `text` o�
 Ces champs sont mobilisables pour le tri, les listes, l'affichage dans des templates (par exemple le plugin BibTeX permet à la lecture de fichiers `.bib` la création de tiddlers avec des champs de type `bibtex-propriété`).
 
 ![Gabarit de citation d'un article bibtex](/img/TW-Excel/tw-bibtex-gabcitart.png)  
-Tiddler 'GabCitArt' : template pour afficher un tiddler bibtex (titre du tiddler = clé bibtex) dans un autre tiddler avec une syntaxe de type transclusion : `{{NomDuTiddlerRefBib!!GabCitArt}}` (remplacer `!!` par deux pipes qui font planter *eleventy*...)
+Tiddler 'GabCitArt' : template pour afficher un tiddler bibtex (titre du tiddler = clé bibtex) dans un autre tiddler avec une syntaxe de type transclusion/tempate.
 
 ![Screenshot Biblio Robin de Mourat]()
 
