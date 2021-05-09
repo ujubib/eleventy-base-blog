@@ -37,15 +37,19 @@ h1,h2,h3,h4,h5,h6 {
   font-size: 0.9em;
 }
 
-.toc a {
+.toc a[href] {
   color: LightGrey;
 }
-.toc a:hover {
+.toc a[href]:hover {
   color: LightGrey;
 }
 
-.toc a:visited {
+.toc a[href]:visited {
   color: LightGrey;
+}
+
+.toc ul, .toc ol {
+  list-style: none;
 }
 
 p,
