@@ -34,14 +34,18 @@ h1,h2,h3,h4,h5,h6 {
 
 .toc {
   font-family: monospace;
-  font-size: 0.8em;
+  font-size: 0.9em;
 }
 
 .toc a {
-  color: Khaki;
+  color: LightGrey;
 }
 .toc a:hover {
-  color: Ivory;
+  color: LightGrey;
+}
+
+.toc a:visited {
+  color: LightGrey;
 }
 
 p,
