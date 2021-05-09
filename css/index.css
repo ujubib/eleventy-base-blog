@@ -32,6 +32,18 @@ h1,h2,h3,h4,h5,h6 {
   color:HotPink;
 }
 
+.toc {
+  font-family: monospace;
+  font-size: 0.8em;
+}
+
+.toc a {
+  color: Khaki;
+}
+.toc a:hover {
+  color: Ivory;
+}
+
 p,
 .tmpl-post li,
 img {

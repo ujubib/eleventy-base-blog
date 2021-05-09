@@ -3,19 +3,19 @@ layout: layouts/base.njk
 templateClass: tmpl-post
 ---
 
-<h1>{{ title }}</h1>
-
 <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
 {%- for tag in tags | filterTagList -%}
 {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
 <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
 {%- endfor %}
 
-{% if content | toc %}
-{{ content | toc | safe }}
-{% endif %}
+<h1>{{ title }}</h1>
 
-<hr style="border:none;border-top:2px dashed deeppink;max-width:42em;margin:0px;margin-top:1.8em;" />
+{% if content | toc %}
+<hr style="border:none;border-top:1px dashed deeppink;max-width:42em;margin:0px;margin-top:1.8em;" />
+{{ content | toc | safe }}
+<hr style="border:none;border-top:1px dashed deeppink;max-width:42em;margin:0px;margin-top:1.8em;" />
+{% endif %}
 
 {{ content | safe }}
 
