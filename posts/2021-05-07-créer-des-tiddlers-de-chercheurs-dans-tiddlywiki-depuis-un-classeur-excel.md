@@ -10,9 +10,9 @@ tags:
   - orcid
 ---
 
-### Introduction
+### TiddlyWiki et moi
 
-Je teste Obsidian depuis presque un an, un peu pour suivre la mode, un peu parce que le ticket d'entrée est quasi nul quand on vient de 7 ans de WikiText mais surtout parce que le concept de 'carnet de fichiers markdown' est extrêmement simple et bien plus 'portable'. C'est très satisfaisant au final. 
+Je teste *Obsidian* depuis presque un an, un peu pour suivre la mode, un peu parce que le ticket d'entrée est quasi nul quand on vient de 7 ans de *WikiText* mais surtout parce que le concept de 'carnet de fichiers markdown' est extrêmement simple et bien plus *portable*. C'est très satisfaisant au final. 
 
 Mais mon vrai systeme de notebook coup de cœur, c'est [TiddlyWiki](https://tiddlywiki.com).
 
@@ -28,16 +28,16 @@ Aujourd'hui il m'en reste 3 "en production", dont un pour l'administration du po
 
 [Je n'ai pas encore testé les versions `Node.js` mais ça à l'air merveilleux !]
 
-### Empty TiddlyWiki
+#### Empty TiddlyWiki
 
 Je mets à disposition un TiddlyWiki vide avec les extensions qui me sont utiles (dont l'importateur Excel dont il va être question ici).
 
 à télécharger ici : [empty_fr_5-1-22.html](https://git.univ-pau.fr/jrabaud001/tw/-/blob/master/empty_fr_5-1-22.html)  (7,27 Mo - Gitlab UPPA)  
 Mes modifications sont décrites dans le *Tiddler* `Options`
 
-Ce fichier est directement utilisable, changez le nom, enregistrez régulièrement vos modifications (voir dans le panneau de configuration du wiki, roue denté) : vous avez un nouveau Wiki (un *TiddlyWiki* autonome).
+Ce fichier est directement utilisable, changez le nom, enregistrez régulièrement vos modifications (*voir dans le panneau de configuration du wiki, roue denté*) : vous avez un nouveau Wiki (un *TiddlyWiki* autonome).
 
-### Les champs d'un Tiddler
+### Les champs d'un *Tiddler*
 
 ![Screenshot chercheur](/img/TW-Excel/TW-champsChercheurs.png)
 
