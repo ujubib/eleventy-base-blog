@@ -12,9 +12,9 @@ templateClass: tmpl-post
 <h1>{{ title }}</h1>
 
 {% if content | toc %}
-<hr style="border:none;border-top:1px dashed deeppink;max-width:42em;margin:0px;margin-top:1.8em;" />
+<hr style="border:none;border-top:1px dashed deeppink;max-width:42em;margin:0px;margin-top:1em;margin-bottom:1em;" />
 {{ content | toc | safe }}
-<hr style="border:none;border-top:1px dashed deeppink;max-width:42em;margin:0px;margin-top:1.8em;" />
+<hr style="border:none;border-top:1px dashed deeppink;max-width:42em;margin:0px;margin-top:1em;" />
 {% endif %}
 
 {{ content | safe }}

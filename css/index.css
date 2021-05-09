@@ -29,7 +29,7 @@ p:last-child {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  color:HotPink;
+  color:orange;
 }
 
 .toc {
@@ -229,6 +229,7 @@ code {
   font-size: 0.6875em; /* 11px /16 */
   padding: 0.09090909090909em 0.3636363636364em; /* 1px 4px /11 */
   margin-left: 0.8em; /* 8px /10 */
+  margin-top: 1em;
   color: var(--darkgray);
   border: 1px solid var(--gray);
   border-radius: 0.25em; /* 3px /12 */
