@@ -37,8 +37,9 @@ Dans des balises `<details>` (style : *transversalites.csl*)
 - formats ?
 - synchronisation ?
 
-## *Les Jardinier.e.s du Nous* sur YesWiki
+### *Les Jardinier.e.s du Nous* sur YesWiki
 
+- [Le Grand Jardin des Jardinier·e·s du nous](https://grandjardin.jardiniersdunous.org/jdn/p?u=home) : Accueil public
 - [Qu'est-ce qu'un jardin ?](https://www.jardiniersdunous.org/?JardinS)
 - [les jardins locaux existants](https://www.jardiniersdunous.org/?JardinsLocaux)
 - [la liste des jardins thématiques existants](https://www.jardiniersdunous.org/?JardinsThematiques)
