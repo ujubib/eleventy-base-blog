@@ -3,6 +3,13 @@ layout: layouts/base.njk
 templateClass: tmpl-post
 ---
 
+<script type="application/json" class="js-hypothesis-config">
+{
+"showHighlights": false
+}
+</script>
+<script async src="https://hypothes.is/embed.js"></script>
+
 <hr class="top"/>
 
 <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
