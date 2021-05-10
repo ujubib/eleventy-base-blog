@@ -36,6 +36,9 @@ Dans des balises `<details>` (style : *transversalites.csl*)
 - à tester
 - formats ?
 - synchronisation ?
+- Ontologies 
+  - [Thésaurus Savoirs](https://datu.ehess.fr/savoirs/fr/) (sur le serveur Datu de l'EHESS) ???
+  - Réflexions sur ontologie *maison*...
 
 ### *Les Jardinier.e.s du Nous* sur YesWiki
 
