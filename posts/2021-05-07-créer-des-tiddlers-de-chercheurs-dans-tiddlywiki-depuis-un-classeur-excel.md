@@ -80,20 +80,25 @@ Un paramétrage adéquat du plugin va créer les bons tiddlers, avec les bons ta
 
 ### Produire des listes en affichant/filtrant les champs
 
-- des listes simples
+#### Des listes simples :
 
-```
-<$list filter='[tag[TREE]tag[publiant]has[idhal_s]]'>
+- ici un seul champs affiché (`idhal_s`), avec retour à la ligne (`<br/>`)
+- filtre sur les tiddler qui ont et le tag `CRAJ` et le tag `publiant` et dont le champs `idhal_s` contient une valeur.
+
+```html
+<$list filter='[tag[CRAJ]tag[publiant]has[idhal_s]]'>
 {{!!idhal_s}}<br/>
 </$list>
 ```
 
-![screenshot liste simple]()
+![screenshot liste simple](/img/uploads/tw-listesimple.png)
 
-- des listes html
+#### Des listes html
 
 ```
-code 2
+<$list filter='[tag[CRAJ]tag[publiant]has[idhal_s]]'>
+`<li><a href="html/`{{!!idhal_s}}`.html">`{{!!title}}`</a></li>`<br/>
+</$list>
 ```
 
 ![screenshot liste htm]()
