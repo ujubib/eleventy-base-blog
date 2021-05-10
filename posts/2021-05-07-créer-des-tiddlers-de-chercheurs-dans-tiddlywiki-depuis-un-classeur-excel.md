@@ -85,11 +85,7 @@ Un paramétrage adéquat du plugin va créer les bons tiddlers, avec les bons ta
 - ici un seul champs affiché (`idhal_s`), avec retour à la ligne (`<br/>`)
 - filtre sur les tiddler qui ont et le tag `CRAJ` et le tag `publiant` et dont le champs `idhal_s` contient une valeur.
 
-```html
-<$list filter='[tag[CRAJ]tag[publiant]has[idhal_s]]'>
-{{!!idhal_s}}<br/>
-</$list>
-```
+
 
 ![screenshot liste simple](/img/uploads/tw-listesimple.png)
 
@@ -100,11 +96,7 @@ Un paramétrage adéquat du plugin va créer les bons tiddlers, avec les bons ta
 -  pour produire une liste de liens vers des fichiers de type `idhal.html` dans un sous-répertoire `/html`, à coller dans un fichier html de type `indexLabo.html`
 - ces fichiers de type `idhal.html` peuvent avoir été produits en réponse à l'API de HAL ;) 
 
-```
-<$list filter='[tag[CRAJ]tag[publiant]has[idhal_s]]'>
-`<li><a href="html/`{{!!idhal_s}}`.html">`{{!!title}}`</a></li>`<br/>
-</$list>
-```
+
 
 ![screenshot liste htm](/img/uploads/tw-listehtml.png)
 
