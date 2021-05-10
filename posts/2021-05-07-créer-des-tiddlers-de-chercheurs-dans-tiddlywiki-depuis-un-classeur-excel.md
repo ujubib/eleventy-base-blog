@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Créer des tiddlers de chercheurs dans TiddlyWiki depuis un classeur Excel
+title: Créer des tiddlers de chercheurs dans un TiddlyWiki depuis un classeur Excel
 date: 2021-05-06T22:00:00.000Z
 tags:
   - TiddlyWiki
@@ -24,7 +24,7 @@ Pour mes notes, j'en créais un par conférence, atelier, formation...
 
 ![dossier TW](/img/TW-Excel/tiddly1.png)  
 
-Aujourd'hui il m'en reste 3 "en production", dont un pour l'administration du portail HAL-e2s-UPPA (Université de Pau et des Pays de l'Adour). Ils sont sur le gitlab de l'université.  
+Aujourd'hui il m'en reste 3 "en production", dont un pour l'administration du portail HAL-e2s-UPPA (Université de Pau et des Pays de l'Adour). Ils sont sur le gitlab de l'université.
 
 [Je n'ai pas encore testé les versions `Node.js` mais ça à l'air merveilleux !]
 
