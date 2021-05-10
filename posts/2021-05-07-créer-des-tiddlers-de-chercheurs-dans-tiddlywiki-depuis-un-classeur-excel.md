@@ -83,7 +83,9 @@ Un paramétrage adéquat du plugin va créer les bons tiddlers, avec les bons ta
 - des listes simples
 
 ```
-code 1
+<$list filter='[tag[TREE]tag[publiant]has[idhal_s]]'>
+{{!!idhal_s}}<br/>
+</$list>
 ```
 
 ![screenshot liste simple]()
