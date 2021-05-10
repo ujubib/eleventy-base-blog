@@ -95,13 +95,18 @@ Un paramétrage adéquat du plugin va créer les bons tiddlers, avec les bons ta
 
 #### Des listes html
 
+- ici utilisation des champs `idhal_s` et `title`
+- balisage `code` pour que le html ne soit pas interprété par TW
+-  pour produire une liste de liens vers des fichiers de type `idhal.html` dans un sous-répertoire `/html`, à coller dans un fichier html de type `indexLabo.html`
+- ces fichiers de type `idhal.html` peuvent avoir été produits en réponse à l'API de HAL ;) 
+
 ```
 <$list filter='[tag[CRAJ]tag[publiant]has[idhal_s]]'>
 `<li><a href="html/`{{!!idhal_s}}`.html">`{{!!title}}`</a></li>`<br/>
 </$list>
 ```
 
-![screenshot liste htm]()
+![screenshot liste htm](/img/uploads/tw-listehtml.png)
 
 - des tableaux html
 
