@@ -33,10 +33,11 @@ tags:
 
   ```html
   <script type="application/json" class="js-hypothesis-config">
-{
-"showHighlights": false
-}
-</script>
-<script async src="https://hypothes.is/embed.js"></script>
+  {
+  "showHighlights": false
+  }
+  </script>
+  <script async src="https://hypothes.is/embed.js"></script>
 
   ```
+### Suite
