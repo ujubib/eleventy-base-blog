@@ -36,4 +36,3 @@ tags:
 - [x] hypothesis
   - [Embedding Hypothesis in Websites and Platforms](https://web.hypothes.is/help/embedding-hypothesis-in-websites-and-platforms)
 
-### Suite
