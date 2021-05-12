@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+    <link rel="icon" type="image/png" href="/img/favicon.ico">
   </head>
   <body>
     <header>
@@ -21,6 +22,7 @@
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
       {%- endfor %}
       </ul>
+      <p><a href="https://uju-11ty.netlify.app/feed/feed.xml"><img height="30px" src="/img/rss-blanc.png"></img>Flux Atom</a></p>
     </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
