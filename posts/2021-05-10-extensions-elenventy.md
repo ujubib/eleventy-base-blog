@@ -34,16 +34,5 @@ tags:
   - billet : [Add comments to your 11ty blog with utterances](https://dev.to/antopiras89/add-comments-to-your-static-blog-with-utterances-3jao) - Antonio Piras (dev.to)
 - [x] hypothesis
   - [Embedding Hypothesis in Websites and Platforms](https://web.hypothes.is/help/embedding-hypothesis-in-websites-and-platforms/)
-  - code collé dans `post.njk` :
-  
-```
-<script type="application/json" class="js-hypothesis-config">
-{
-"showHighlights": false
-}
-</script>
-<script async src="https://hypothes.is/embed.js"></script>
-
-```
 
 ### Suite
