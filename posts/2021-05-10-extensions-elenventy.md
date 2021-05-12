@@ -36,13 +36,14 @@ tags:
   - [Embedding Hypothesis in Websites and Platforms](https://web.hypothes.is/help/embedding-hypothesis-in-websites-and-platforms/)
   - code collé dans `post.njk` :
   
-``` html
+```
 <script type="application/json" class="js-hypothesis-config">
 {
 "showHighlights": false
 }
 </script>
 <script async src="https://hypothes.is/embed.js"></script>
+
 ```
 
 ### Suite
