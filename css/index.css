@@ -15,7 +15,7 @@
 
 ul.nav li:last-child {
   position: relative;
-  margin-right: 0px;
+  right: 2em;
 }
 
 html,
