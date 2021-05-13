@@ -24,8 +24,9 @@
 }
 
 ul.nav li:last-child {
-  position: absolute;
-  right: 6em;
+  /* position: absolute;
+  right: 6em; */
+  float: right;
 }
 
 html,
