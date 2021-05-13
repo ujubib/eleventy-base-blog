@@ -18,8 +18,7 @@
   font-style: italic;
   font-size: 1em;
   margin-left: 2em;
-  position: absolute;
-  right: 8em;
+  float: right;
 }
 
 ul.nav li:last-child {
