@@ -20,13 +20,12 @@
   text-align: right;
   margin-left: 240px;
   position: absolute;
-  right: 6em;
+  right: 5.5em;
 }
 
 ul.nav li:last-child {
-  /* position: absolute;
-  right: 6em; */
-  float: right;
+  position: absolute;
+  right: 5em;
 }
 
 html,
