@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Utiliser la Console Javascript de Zotero
 description: pour modifier en lot les références sélectionnées
 date: 2019-06-01T22:00:00.000Z
-featuredImage: https://64.media.tumblr.com/tumblr_lwru10zDEl1qbxpeso1_500.jpg
+featuredImage: /img/zotero.png
 tags:
   - Zotero
   - Console Javascript
