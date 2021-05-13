@@ -21,7 +21,7 @@
       {%- for entry in collections.all | eleventyNavigation %}
         <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
       {%- endfor %}
-        <li class="nav-item"><a href="https://uju-11ty.netlify.app/feed/feed.xml"><img height="30px" src="/img/rss-blanc.png"></img>Flux Atom</a></li>
+        <li class="nav-item"><a href="https://uju-11ty.netlify.app/feed/feed.xml"><img height="18px" src="/img/rss-blanc.png" style="vertical-align:middle"></img> Flux Atom</a></li>
       </ul>
       
     </header>
