@@ -17,8 +17,9 @@
   color:LightSalmon;
   font-style: italic;
   font-size: 1em;
-  margin-left: 2em;
-  float: right;
+  margin-left: 320px;
+  position: absolute;
+  right: 8em;
 }
 
 ul.nav li:last-child {
