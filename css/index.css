@@ -13,6 +13,13 @@
   box-sizing: border-box;
 }
 
+.hypo {
+  color:mediumspringgreen;
+  font-style: italic;
+  font-size: 0.8em;
+  margin-left: 3em;
+}
+
 ul.nav li:last-child {
   position: absolute;
   right: 2em;
