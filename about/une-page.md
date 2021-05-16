@@ -22,6 +22,7 @@ eleventyNavigation:
 |Logo|Site|PP|profil|uri|
 |---|---|---|---|---|
 |<img src="../../img/Orcid.png" height=50 />|Orcid|<img src="../../img/Orcid.png" height=50 />|[Julien Rabaud](https://orcid.org/0000-0002-6604-9777)|`https://orcid.org/0000-0002-6604-9777`|
+|<img src="../../img/logo-hypothesis.png" height=50 />|hypothesis|<img src="../../img/logo-hypothesis.png" height=50 />|[ujubib](https://hypothes.is/users/ujubib)|`https://hypothes.is/users/ujubib`|
 |<img src="../../img/linkedin.png" height=50 />|LinkedIn|<img src="../../img/PP-LinkedIn.jfif" height=50 /> |[Julien Rabaud](https://www.linkedin.com/in/julien-rabaud-6b037110/)|`https://www.linkedin.com/in/julien-rabaud-6b037110/`|
 |<img src="../../img/twitter.png" height=50 />|Twitter|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 /> |[@UjuBib](https://twitter.com/UjuBib)|`https://twitter.com/UjuBib`|
 |<img src="../../img/Mastodon.png" height=50 />|Mastodon|<img src="../../img/PP-Twitter-FB-Insta-MAstodon.jpg" height=50 /> |[@UjuBib@mamot.fr](https://mamot.fr/@UjuBib)|`https://mamot.fr/@UjuBib`|
