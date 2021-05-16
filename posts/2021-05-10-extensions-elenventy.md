@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Extensions elenventy
+title: Extensions eleventy
 date: 2021-05-09T22:00:00.000Z
 tags:
   - eleventy
@@ -32,4 +32,6 @@ tags:
   - billet : [Add comments to your 11ty blog with utterances](https://dev.to/antopiras89/add-comments-to-your-static-blog-with-utterances-3jao) - Antonio Piras (dev.to)
 - [x] hypothesis
   - [Embedding Hypothesis in Websites and Platforms](https://web.hypothes.is/help/embedding-hypothesis-in-websites-and-platforms)
+
+
 
