@@ -22,7 +22,7 @@ tags:
 - [x] markdown-it-attrs `.classe` `attr=value` `#id`...
   - billet : [11ty Markdown Attributes](https://dev.to/iarehilton/11ty-markdown-attributes-2dl3) - Hilton Meyer (dev.to)
   - Module `npm` : [markdown-it-attrs](https://www.npmjs.com/package/markdown-it-attrs)
-- [x] markdown-it-footnote
+- [x] \@gerhobbelt/markdown-it-footnote
   - Module `npm` : [markdown-it-footnote](https://www.npmjs.com/package/@gerhobbelt/markdown-it-footnote)
 - [ ] markdown-it-emoji
   - Module `npm` : [markdown-it-emoji](https://www.npmjs.com/package/markdown-it-emoji)

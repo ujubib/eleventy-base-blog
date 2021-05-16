@@ -81,7 +81,7 @@ module.exports = function(eleventyConfig) {
     permalinkClass: "direct-link",
     permalinkSymbol: "#"
   });
-  markdownLibrary.use(require("markdown-it-footnote"));
+  markdownLibrary.use(require("@gerhobbelt/markdown-it-footnote"));
   markdownLibrary.use(markdownItAttrs);
   eleventyConfig.setLibrary("md", markdownLibrary);
 
