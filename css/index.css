@@ -73,7 +73,7 @@ hr.top {
   text-decoration: none;
 }
 .toc a[href]:hover {
-  color: lime;
+  color: deeppink;
 }
 
 .toc a[href]:visited {
@@ -257,6 +257,11 @@ code {
   text-underline-offset: 0;
   text-decoration-thickness: 1px;
 }
+
+.postlist-link:hover {
+  color:deeppink;
+}
+
 .postlist-item-active .postlist-link {
   font-weight: bold;
 }
