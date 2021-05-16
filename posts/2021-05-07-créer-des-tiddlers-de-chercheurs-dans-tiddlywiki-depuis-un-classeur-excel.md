@@ -9,7 +9,6 @@ tags:
   - idref
   - orcid
 ---
-
 ### TiddlyWiki et moi
 
 Je teste *Obsidian* depuis presque un an, un peu pour suivre la mode, un peu parce que le ticket d'entrée est quasi nul quand on vient de 7 ans de *WikiText* mais surtout parce que le concept de 'carnet de fichiers markdown' est extrêmement simple et bien plus *portable*. C'est très satisfaisant au final. 
@@ -22,7 +21,7 @@ Il s'agit concrètement d'un seul fichier html *gavé* de javascript.
 
 Pour mes notes, j'en créais un par conférence, atelier, formation... 
 
-![dossier TW](/img/TW-Excel/tiddly1.png)  
+![dossier TW](/img/TW-Excel/tiddly1.png)
 
 Aujourd'hui il m'en reste 3 "en production", dont un pour l'administration du portail HAL-e2s-UPPA (Université de Pau et des Pays de l'Adour). Ils sont sur le gitlab de l'université.
 
@@ -32,8 +31,9 @@ Aujourd'hui il m'en reste 3 "en production", dont un pour l'administration du po
 
 Je mets à disposition un TiddlyWiki vide avec les extensions qui me sont utiles (dont l'importateur Excel dont il va être question ici).
 
-- à télécharger ici : [empty_fr_5-1-22.html](https://git.univ-pau.fr/jrabaud001/tw/-/blob/master/empty_fr_5-1-22.html)  (7,27 Mo - Gitlab UPPA)
-  - Mes modifications sont décrites dans le *Tiddler* `Options`
+* à télécharger ici : [empty_fr_5-1-22.html](https://git.univ-pau.fr/jrabaud001/tw/-/blob/master/empty_fr_5-1-22.html)  (7,27 Mo - Gitlab UPPA)
+
+  * Mes modifications sont décrites dans le *Tiddler* `Options`
 
 Ce fichier est directement utilisable, changez le nom, enregistrez régulièrement vos modifications (*voir dans le panneau de configuration du wiki, roue denté*) : vous avez un nouveau Wiki (un *TiddlyWiki* autonome).
 
@@ -45,7 +45,7 @@ Un *tiddler* (tuile?) est une entrée du (tiddly)wiki. Il y a un champ `text` o�
 
 Ces champs sont mobilisables pour le tri, les listes, l'affichage dans des templates (par exemple le plugin BibTeX permet à la lecture de fichiers `.bib` la création de tiddlers avec des champs de type `bibtex-propriété`).
 
-![Gabarit de citation d'un article bibtex](/img/TW-Excel/tw-bibtex-gabcitart.png)  
+![Gabarit de citation d'un article bibtex](/img/TW-Excel/tw-bibtex-gabcitart.png)\
 Tiddler 'GabCitArt' : template pour afficher un tiddler bibtex (titre du tiddler = clé bibtex) dans un autre tiddler avec une syntaxe de type transclusion/tempate.
 
 ![Screenshot Biblio Robin de Mourat]()
@@ -55,18 +55,19 @@ Un autre plugin, [Dynamic tables](https://ooktech.com/jed/ExampleWikis/DynamicTa
 ![screenshot Dynamic tables, idhal d'un labo](/img/TW-Excel/tw-dynamictables.png)
 
 le code : 
-- `<<RawTable` : appel d'une macro installée par le plugin *Dynamic Tables*
-- `[tag[LATEP]tag[publiant]]` : filtre les **tiddlers** à afficher (en lignes, *RawTable*)
-- `[[idHAL_i]][[idHAL_s]][[ind]][[orcid]][[idref]][[note]]` : liste les **champs** à afficher/éditer (en colonnes), même si ces champs n'existent pas encore dans les tiddlers !!!
+
+* `<<RawTable` : appel d'une macro installée par le plugin *Dynamic Tables*
+* `[tag[LATEP]tag[publiant]]` : filtre les **tiddlers** à afficher (en lignes, *RawTable*)
+* `[[idHAL_i]][[idHAL_s]][[ind]][[orcid]][[idref]][[note]]` : liste les **champs** à afficher/éditer (en colonnes), même si ces champs n'existent pas encore dans les tiddlers !!!
 
 #### Le champs 'caption'
 
 Sympathique pour les noms, s'affiche à la place du champ 'title' du tiddler dans les listes (tri sur le titre).
 
 exemple :
-- title : `Martin, Pierre`
-- caption : `Pierre Martin`
 
+* title : `Martin, Pierre`
+* caption : `Pierre Martin`
 
 ### Le plugin [XLSX Utils](http://tiddlywiki.com/prerelease/editions/xlsx-utils/)
 
@@ -82,31 +83,26 @@ Un paramétrage adéquat du plugin va créer les bons tiddlers, avec les bons ta
 
 #### Des listes simples :
 
-- ici un seul champs affiché (`idhal_s`), avec retour à la ligne (`<br/>`)
-- filtre sur les tiddler qui ont et le tag `CRAJ` et le tag `publiant` et dont le champs `idhal_s` contient une valeur.
-
-
+* ici un seul champs affiché (`idhal_s`), avec retour à la ligne (`<br/>`)
+* filtre sur les tiddler qui ont et le tag `CRAJ` et le tag `publiant` et dont le champs `idhal_s` contient une valeur.
 
 ![screenshot liste simple](/img/uploads/tw-listesimple.png)
 
 #### Des listes html
 
-- ici utilisation des champs `idhal_s` et `title`
-- balisage `code` pour que le html ne soit pas interprété par TW
--  pour produire une liste de liens vers des fichiers de type `idhal.html` dans un sous-répertoire `/html`, à coller dans un fichier html de type `indexLabo.html`
-- ces fichiers de type `idhal.html` peuvent avoir été produits en réponse à l'API de HAL ;) 
-
-
+* ici utilisation des champs `idhal_s` et `title`
+* balisage `code` pour que le html ne soit pas interprété par TW
+* pour produire une liste de liens vers des fichiers de type `idhal.html` dans un sous-répertoire `/html`, à coller dans un fichier html de type `indexLabo.html`
+* ces fichiers de type `idhal.html` peuvent avoir été produits en réponse à l'API de HAL ;) 
 
 ![screenshot liste htm](/img/uploads/tw-listehtml.png)
 
-- des tableaux html
+* des tableaux html
 
 ```
 code 3
 ```
 
+![]()
+
 ![screenshot liste tableau html]()
-
-
-
