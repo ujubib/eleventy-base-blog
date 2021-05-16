@@ -5,6 +5,8 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const markdownItAttrs = require("markdown-it-attrs");
+const markdownItFootNote = require("markdown-it-footnote");
 const pluginTOC = require('eleventy-plugin-toc')
  
 module.exports = function(eleventyConfig) {
@@ -68,8 +70,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
 
   // Customize Markdown library and settings:
-  let markdownIt = require("markdown-it");
-  var markdownItAttrs = require("markdown-it-attrs");
+  
+ 
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
@@ -81,7 +83,7 @@ module.exports = function(eleventyConfig) {
     permalinkClass: "direct-link",
     permalinkSymbol: "#"
   });
-  markdownLibrary.use(require("@gerhobbelt/markdown-it-footnote"));
+  markdownLibrary.use(markdownItFootNote);
   markdownLibrary.use(markdownItAttrs);
   eleventyConfig.setLibrary("md", markdownLibrary);
 
