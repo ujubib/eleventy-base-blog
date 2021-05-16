@@ -3,7 +3,9 @@ layout: layouts/post.njk
 title: "Extensions pour Eleventy "
 date: 2021-05-15T22:00:00.000Z
 tags:
-  - blog
+  - Ce Blog
+  - Netlify CMS
+  - Eleventy
   - markdown-it
 ---
 ### Netlify CMS
