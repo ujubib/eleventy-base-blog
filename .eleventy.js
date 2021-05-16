@@ -6,7 +6,6 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
-const markdownItFootNote = require("@gerhobbelt/markdown-it-footnote");
 const pluginTOC = require('eleventy-plugin-toc')
  
 module.exports = function(eleventyConfig) {
@@ -83,7 +82,6 @@ module.exports = function(eleventyConfig) {
     permalinkClass: "direct-link",
     permalinkSymbol: "#"
   });
-  markdownLibrary.use(markdownItFootNote);
   markdownLibrary.use(markdownItAttrs);
   eleventyConfig.setLibrary("md", markdownLibrary);
 
