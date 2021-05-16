@@ -98,12 +98,11 @@ p,
 a[href] {
   color: var(--blue);
 }
-a[href]:hover {
-  color: var(--gray);
-}
-
 a[href]:visited {
   color: var(--blue);
+}
+a[href]:hover {
+  color: var(--gray);
 }
 
 time {
@@ -258,7 +257,7 @@ code {
   text-decoration-thickness: 1px;
 }
 
-.postlist-link:hover {
+a.postlist-link:hover {
   color:deeppink;
 }
 
