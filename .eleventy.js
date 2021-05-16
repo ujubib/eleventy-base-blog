@@ -68,16 +68,21 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("css");
 
   // Customize Markdown library and settings:
+  let markdownIt = require("markdown-it");
+  var markdownItAttrs = require("markdown-it-attrs");
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
     linkify: true,
     typographer: true
-  }).use(markdownItAnchor, {
+  })
+  markdownLibrary.use(markdownItAnchor, {
     permalink: true,
     permalinkClass: "direct-link",
     permalinkSymbol: "#"
   });
+  markdownLibrary.use(require("markdown-it-footnote"));
+  markdownLibrary.use(markdownItAttrs);
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)
