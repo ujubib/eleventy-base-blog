@@ -26,6 +26,7 @@
 footer p {
   position: absolute;
   right: 5.5em;
+  margin-top: 0em;
 }
 
 /* ul.nav li:last-child {
@@ -72,12 +73,13 @@ hr.top {
   color: LightSalmon;
   text-decoration: none;
 }
-.toc a[href]:hover {
-  color: deeppink;
-}
 
 .toc a[href]:visited {
-  color: LightSalmon;
+  color: var(--lightgray);
+}
+
+.toc a[href]:hover {
+  color: deeppink;
 }
 
 .toc ul, .toc ol {
@@ -99,7 +101,7 @@ a[href] {
   color: var(--blue);
 }
 a[href]:visited {
-  color: var(--blue);
+  color: var(--lightgray);
 }
 a[href]:hover {
   color: var(--gray);
