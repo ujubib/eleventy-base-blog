@@ -13,6 +13,22 @@
   box-sizing: border-box;
 }
 
+h1.accueil {
+  font-size: 2em;
+  font-weight: 600;
+  color: khaki;
+  padding: 8px 16px;
+  display: inline-block;
+  border: 1px solid khaki;
+  border-radius: 21px;
+  margin-bottom: 0em;
+}
+
+p.accueil {
+  text-indent: 1em;
+  color:palegreen;
+}
+
 .hypo {
   color:LightSalmon;
   font-style: italic;
@@ -89,12 +105,16 @@ hr.top {
 p,
 .tmpl-post li,
 img {
-  max-width: 42em;
+  max-width: 48em;
 }
 
 p,
 .tmpl-post li {
   line-height: 1.45;
+}
+
+p {
+  text-align: justify;
 }
 
 a[href] {

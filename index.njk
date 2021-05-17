@@ -4,17 +4,39 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
-{% set maxPosts = collections.posts.length | min(3) %}
+
+<hr class="top" style="margin-top:1em;"/>
+
+<h1 class="accueil">Bienvenue</h1>
+
+<p class="accueil">Je suis technicien (<em>Bibass</em>) dans un SCD (service commun de la documentation, les BU) d'une petite université. Je suis affecté au Service d'Appui à la Recherche du Département des Services au Public.</p>
+<p class="accueil">Ce carnet est né de la volonté de tester des outils de blogs statiques (ici <em>Eleventy</em>) et va me permettre de noter et partager sur des usages du numérique dans mon milieu professionnel.</p>
+<p class="accueil">Je partage ma veille sur Twitter <a href="https://twitter.com/UjuBib" target="_blank"><img src="img/twitter.png" height="22px" style="vertical-align:middle"></img>@UjuBib</a> (fil copié sur Mastodon ici <a href="https://mamot.fr/@UjuBib" target="_blank"><img src="img/Mastodon.png" height="22px" style="vertical-align:middle"></img>@UjuBib@mamot.fr</a>)</p>
+
+<hr class="top" style="margin-top:2em;"/>
+
+{% set maxPosts = collections.posts.length | min(4) %}
 <h1>Les {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} derniers billets{% endif %}</h1>
 
-{% set postslist = collections.posts | head(-3) %}
+{% set postslist = collections.posts | head(-4) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
-<p>Plus de billets : <a href="{{ '/posts/' | url }}">Archive</a>.</p>
+
+<ul>
+  <li><p><a href="{{ '/posts/' | url }}">Archive</a> (Tous les billets)</p></li>
+  <li><p>Tous les Tags :</p></li>
+</ul>
+
+<hr class="top" style="margin-top:0em;"/>
+
+{% for tag in collections.tagList | filterTagList %}
+  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+{% endfor %}
 
 
 <footer>
-    <hr class="top"/>
+    <hr class="top" style="margin-top:1.2em;"/>
     <p><a href="https://uju-11ty.netlify.app/feed/feed.xml"><img height="22px" src="/img/rss-blanc.png" style="vertical-align:middle"></img> Flux Atom (pour s'abonner)</a></p>
 </footer>
