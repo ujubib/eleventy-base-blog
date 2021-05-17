@@ -10,10 +10,13 @@ eleventyNavigation:
 
 ### Tumblr
 - [La fausse sceptique](https://sceptique.tumblr.com) (belles images & gifs)
-  - [Son tumbview (en mode diaporama aléatoire)](http://tumbview.com/sceptique/slideshow/random/)
+  - [Son tumbview (en mode diaporama aléatoire)](http://tumbview.com/sceptique/slideshow/random/), en plein écran du public lors de mes permanences au bureau de renseignement bibliographique de la BU de Pau, en attendant le public.
 - [DoOm CetNia](https://doomcetnia.tumblr.com) (extraits de textes)
+  - à enrichir ? 
 - [Eloge du travail comme délire surréel](https://deliresurreel.tumblr.com) (à faire)
+  - à reprendre en `reveal.js` avec photos des pages manuscrites du livre.
 - [cdf_vrac > doc](https://cdfvrac.tumblr.com) [juin 2013 -- septembre 2015]
+  - tentative de collecte de pages web évoquants le Collège de France ou ses professeurs.
 
 <hr style="border:none;border-top:2px dashed deeppink;max-width:42em;margin:0px;margin-top:2em;" />
 
