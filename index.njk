@@ -5,15 +5,17 @@ eleventyNavigation:
   order: 1
 ---
 
-<hr class="top" style="margin-top:1em;"/>
+
 
 <h1 class="accueil">Bienvenue</h1>
 
-<p class="accueil">Je suis technicien (<em>Bibass</em>) dans un SCD (service commun de la documentation, les BU) d'une petite université. Je suis affecté au Service d'Appui à la Recherche du Département des Services au Public.</p>
-<p class="accueil">Ce carnet est né de la volonté de tester des outils de blogs statiques (ici <em>Eleventy</em>) et va me permettre de noter et partager sur des usages du numérique dans mon milieu professionnel.</p>
-<p class="accueil">Je partage ma veille sur Twitter <a href="https://twitter.com/UjuBib" target="_blank"><img src="img/twitter.png" height="22px" style="vertical-align:middle"></img>@UjuBib</a> (fil copié sur Mastodon ici <a href="https://mamot.fr/@UjuBib" target="_blank"><img src="img/Mastodon.png" height="22px" style="vertical-align:middle"></img>@UjuBib@mamot.fr</a>)</p>
+<div class="accueil">
+  <p class="accueil">Je suis technicien (<em>BibAss</em>) dans un SCD (Service Commun de la Documentation, <em>les BU</em>) d'une petite université. J'officie au Service d'Appui à la Recherche du Département des Services au Public. Nos missions : <a href="https://hal-univ-pau.archives-ouvertes.fr" target="_blank">portail HAL de l'université</a> (administration, formations au dépôt, réseau des correspondants labo, <a href="https://halathon2021-hal-e2s-uppa.netlify.app" target="_blank">HALathon</a>...), serveur Omeka S, formations IdNum (idhal, orcid...), GT science ouverte...</p>
+  <p class="accueil">Ce carnet est né de la volonté de tester des outils de blogs statiques (ici <a href="https://www.11ty.dev" target="_blank"><em>Eleventy</em></a>) et va me permettre de noter et partager sur des usages du numérique dans mon milieu professionnel.</p>
+  <p class="accueil">--> Je partage ma veille sur <a href="https://twitter.com/UjuBib" target="_blank"><img src="img/twitter.png" height="32px" style="vertical-align:middle"></img>@UjuBib</a> : : : : : : Fil copié sur <a href="https://fr.wikipedia.org/wiki/Mastodon_(r%C3%A9seau_social)" target="_blank">Mastodon <img src="img/wikipedia.png" height="22px" style="vertical-align:middle"></img></a> ici  <a href="https://mamot.fr/@UjuBib" target="_blank"><img src="img/Mastodon.png" height="22px" style="vertical-align:middle"></img>@UjuBib@mamot.fr</a></p>
+</div>
 
-<hr class="top" style="margin-top:2em;"/>
+
 
 {% set maxPosts = collections.posts.length | min(4) %}
 <h1>Les {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} derniers billets{% endif %}</h1>
@@ -25,8 +27,9 @@ eleventyNavigation:
 
 <ul>
   <li><p><a href="{{ '/posts/' | url }}">Archive</a> (Tous les billets)</p></li>
-  <li><p>Tous les Tags :</p></li>
 </ul>
+
+<h1 style="margin-top:1em">Tous les Tags :</h1>
 
 <hr class="top" style="margin-top:0em;"/>
 
