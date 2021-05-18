@@ -22,6 +22,19 @@ h1.accueil {
   border: 1px solid khaki;
   border-radius: 21px;
   margin-bottom: 0em;
+  vertical-align: middle;
+}
+
+div.accueil {
+  display: inline-block;
+  background-color: #4d1933;
+  padding: 8px 16px;
+  border: 1px solid deeppink;
+  vertical-align: middle;
+ margin-top: 2em;
+ margin-left: 3em;
+ margin-bottom: 1em;
+
 }
 
 p.accueil {
@@ -33,10 +46,13 @@ p.accueil {
   color:LightSalmon;
   font-style: italic;
   font-size: 1em;
-  text-align: right;
-  margin-left: 240px;
+    margin-left: 240px;
   position: absolute;
   right: 5.5em;
+}
+
+.hypo p {
+  text-align: right;
 }
 
 footer p {
