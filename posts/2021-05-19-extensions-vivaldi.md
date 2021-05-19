@@ -100,11 +100,11 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 | nom                                         | description                                  | note                          |
 | ------------------------------------------- | -------------------------------------------- | ----------------------------- |
 | [**AddToAny**](https://www.addtoany.com): Share Anywhere | Share to Facebook, Twitter, WhatsApp, email, and any other sharing or saving service quickly and easily with one share button. |                               |
-| Save to [**Pocket**](https://getpocket.com/add/?ep=1)                          | Le moyen le plus facile et le plus rapide de sauvegarder des articles, des vidéos et bien plus encore.                              |                               |
-| [Better TweetDeck](https://chrome.google.com/webstore/detail/better-tweetdeck/micblkellenpbfapmcpcfhcoeohhnpob?hl=fr)                            | Take TweetDeck to the next level!                                                                                                   |                               |
-| EverSync - Sync bookmarks, backup favorites | Synchronize your bookmarks, FVD Speed Dials. Secure online access. Backup, restore your bookmarks. Sync favorites between computers | Sync. entre chrome et firefox |
-| **The RSS Aggregator**                      | RIP Opera                                                                                                                           |                               |
-| Wakelet                                     | Save, organize and share content from across the web!                                                                               |                               |
+| Save to [**Pocket**](https://getpocket.com/add/?ep=1) | Le moyen le plus facile et le plus rapide de sauvegarder des articles, des vidéos et bien plus encore. |                               |
+| [Better TweetDeck](https://chrome.google.com/webstore/detail/better-tweetdeck/micblkellenpbfapmcpcfhcoeohhnpob?hl=fr) | Take TweetDeck to the next level! |                               |
+| [EverSync](https://www.everhelper.me/synchronizer.php) - Sync bookmarks, backup favorites | Synchronize your bookmarks, FVD Speed Dials. Secure online access. Backup, restore your bookmarks. Sync favorites between computers | Sync. entre chrome et firefox |
+| [**The RSS Aggregator**](https://chrome.google.com/webstore/detail/the-rss-aggregator/ffhafkagcdhnhamiaecajogjcfgienom?hl=fr) | RIP Opera |                               |
+| [Wakelet](https://chrome.google.com/webstore/detail/wakelet/iomokcfebnfiflpgcpcijfkfmafgkjgh?hl=fr) | Save, organize and share content from across the web! |                               |
 
 
 ## Visio
@@ -112,9 +112,9 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
 | nom                          | description                                                                                               | note |
 | ---------------------------- | --------------------------------------------------------------------------------------------------------- | ---- |
-| appear.in screen sharing     | Share the screen from your computer in a video conversation, to show presentations, photos and documents. |      |
-| Cisco Webex Extension        | Rejoignez les réunions Webex avec Google Chrome ™                                                         |      |
-| RENdez-vous Desktop Streamer | A simple extension that allows you to stream your desktop into meetings with RENdez-vous.                 |      |
+| [appear.in](https://whereby.com) screen sharing     | Share the screen from your computer in a video conversation, to show presentations, photos and documents. |      |
+| [Cisco Webex Extension](https://chrome.google.com/webstore/detail/cisco-webex-extension/jlhmfgmfgeifomenelglieieghnjghma?hl=fr)        | Rejoignez les réunions Webex avec Google Chrome ™                                                         |      |
+| [RENdez-vous Desktop Streamer](https://chrome.google.com/webstore/detail/rendez-vous-desktop-strea/jdihdakdhkognlecpefdalpkhdmkdgmk?hl=fr) | A simple extension that allows you to stream your desktop into meetings with RENdez-vous.                 |      |
 
 
 ## Webdev
@@ -122,12 +122,12 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
 | nom                                 | description                                                                | note |
 | ----------------------------------- | -------------------------------------------------------------------------- | ---- |
-| Stylus                              | Changez l'apparence du Web grâce à Stylus, un outil de gestion des styles utilisateur. Stylus vous permet d'installer facilement des thèmes et des habillages pour Google, Facebook, YouTube, orkut et bien d'autres sites encore. |      |
-| **Violentmonkey**                   | Un gestionnaire de scipts utilisateurs qui supporte beaucoup de navigateurs |     |
-| **DJSON** - JSON Viewer & Formatter | Extension to format and view JSON, from Web, Input or File. |      |
-| Html Scan                           | Scan and copy text, html markup on any websites |      |
-| JSONView                            | Validate and view JSON documents |      |
-| **XPath Helper**                    | Extract, edit, and evaluate XPath queries with ease. |      |
+| [Stylus](https://github.com/openstyles/stylus)                              | Changez l'apparence du Web grâce à Stylus, un outil de gestion des styles utilisateur. Stylus vous permet d'installer facilement des thèmes et des habillages pour Google, Facebook, YouTube, orkut et bien d'autres sites encore. |      |
+| [**Violentmonkey**](https://violentmonkey.github.io)                   | Un gestionnaire de scipts utilisateurs qui supporte beaucoup de navigateurs |     |
+| [DJSON - Viewer](https://github.com/dardesantis/DJSON-Viewer) | Extension to format and view JSON, from Web, Input or File. |      |
+| [Html Scan](https://chrome.google.com/webstore/detail/html-scan/jkkccmdilclkdkhkfdmcbdiagpibmpne)                           | Scan and copy text, html markup on any websites |      |
+| [**JSONView**](https://jsonview.com)                            | Validate and view JSON documents |      |
+| [**XPath Helper**](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=fr)                    | Extract, edit, and evaluate XPath queries with ease. |      |
 
 
 ## Désactivées
@@ -135,9 +135,9 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
 | catégorie      | nom                                   | description                                                             | note |
 | -------------- | ------------------------------------- | ----------------------------------------------------------------------- | ---- |
-| biblio         | Scopus Document Download Manager      | Scopus authenticated users can download PDF files directly from Scopus! |      |
-| markdown       | Paste as Markdown                     | Paste as Markdown.                                                      |      |
-| markdown       | JotterPad - Markdown, Fountain Editor | Markdown & Fountain WYSIWYG editor with cloud sync and offline access.  |      |
+| biblio         | [Scopus Document Download Manager](https://chrome.google.com/webstore/detail/scopus-document-download/ojplelelocihfchkdaebocpankipadmp)      | Scopus authenticated users can download PDF files directly from Scopus! |      |
+| markdown       | [Paste as Markdown](http://markitdown.medusis.com)                     | Paste as Markdown.                                                      |      |
+| markdown       | [JotterPad](https://chrome.google.com/webstore/detail/jotterpad-markdown-founta/eedchpibggikoahhgjpikeacbnlnnfge) - Markdown, Fountain Editor | Markdown & Fountain WYSIWYG editor with cloud sync and offline access.  |      |
 | téléchargement | Flash Video Downloader                | Cette extension contient des logiciels malveillants.                    |      |
 | téléchargement | Video Downloader Pro                  | Le moyen le plus simple de télécharger des vidéos sur le Web!           |      |
 | téléchargement | MEGA                                  | Secure Cloud Storage and Chat                                           |      |
