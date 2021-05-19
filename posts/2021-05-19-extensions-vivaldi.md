@@ -17,9 +17,9 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 | -------------------------------------- | ------------------------------------------------------------------------- | ---- |
 | [BibSonomy Buttons](https://www.bibsonomy.org/buttons)         | BibSonomy Buttons Plugin                    |      |
 | [EndNote Click](https://click.endnote.com) - *Formerly Kopernio*  | Fast, one-click access to millions of research papers. |      |
-| **ISTEX**                                  | An add-on for identifying ISTEX resources in the browser pages         |      |
+| [**ISTEX**](https://addons.istex.fr)        | An add-on for identifying ISTEX resources in the browser pages         |      |
 | [Librarian for arXiv](https://fermatslibrary.com/librarian) - Fermat's Library | Quickly find references and bibtex of arXiv papers  |      |
-| Open Access Button                     | Push Button. Get Research. Make Progress.              |      |
+| [Open Access Button](https://openaccessbutton.org)                     | Push Button. Get Research. Make Progress.              |      |
 | [Scholarcy](https://www.scholarcy.com/using-the-chrome-extension/) - Research Paper Summarizer | Summarizes research papers, creates interactive flashcards, highlights key points, links to open-access versions of each citation | Chrome only     |
 | [Science Research Assistant](https://chrome.google.com/webstore/detail/science-research-assistan/ceacgaccjcomdbnoodjpllihjmeflfmg)  | Search for scientific information as quickly as possible while researching and writing scientific papers.        |      |
 | [Scite](https://chrome.google.com/webstore/detail/scite/homifejhmckachdikhkgomachelakohh)          | scite allows users to see how a publication has been cited, providing the citation context and classification           |      |
@@ -30,11 +30,11 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
 | nom                                   | description                                                                            | note |
 | ------------------------------------- | -------------------------------------------------------------------------------------- | ---- |
-| Copy as Markdown                      | Browser extension to copy hyperlinks, images, and selected text as Markdown            |      |
-| JotterPad - Markdown, Fountain Editor | Markdown & Fountain WYSIWYG editor with cloud sync and offline access.                 |      |
-| **Markdown Here**                     | Écrivez votre courriel avec Markdown, puis rendez-le attrayant.                        |      |
-| **Markdown Link Generator**           | Generates inline Markdown link from the selected text and current url of the page      |      |
-| MarkDownload - Markdown Web Clipper   | This extension works like a web clipper, but it downloads articles in markdown format. |      |
+| [Copy as Markdown](https://chrome.google.com/webstore/detail/copy-as-markdown/dgoenpnkphkichnohepecnmpmihnabdg) | Browser extension to copy hyperlinks, images, and selected text as Markdown   |      |
+| [JotterPad](https://jotterpad.app) - Markdown, Fountain Editor | Markdown & Fountain WYSIWYG editor with cloud sync and offline access. |      |
+| [**Markdown Here**](https://markdown-here.com)   | Écrivez votre courriel avec Markdown, puis rendez-le attrayant.             |      |
+| [**Markdown Link Generator**](https://chrome.google.com/webstore/detail/markdown-link-generator/glnecdafikgonniihbdjneaikhcgcbhb)           | Generates inline Markdown link from the selected text and current url of the page      |      |
+| [MarkDownload](https://github.com/deathau/markdownload) - Markdown Web Clipper   | This extension works like a web clipper, but it downloads articles in markdown format. |      |
 
 
 
@@ -44,10 +44,10 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
 | nom                                   | description                                                                                                            | note |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---- |
-| **Hypothesis** - Web & PDF Annotation | Collaboratively annotate, highlight, and tag web pages and PDF documents.                                              |      |
-| Needle                                | Glissez un fil dans chacune de vos trouvailles sur le web. Suivez les fils de ceux qui les ont découvertes avant vous. |      |
-| PubPeer                               | Show links to existing PubPeer comments                                                                                |      |
-| Turtl                                 | A bookmarking utility for the Turtl app (https://turtlapp.com/)                                                        |      |
+| [**Hypothesis**](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=fr) - Web & PDF Annotation | Collaboratively annotate, highlight, and tag web pages and PDF documents.                                              |      |
+| [Needle](https://needle.univ-lorraine.fr)     | Glissez un fil dans chacune de vos trouvailles sur le web. Suivez les fils de ceux qui les ont découvertes avant vous. |      |
+| [PubPeer](https://pubpeer.com/static/extensions)                               | Show links to existing PubPeer comments                                                                                |      |
+| [Turtl](https://chrome.google.com/webstore/detail/turtl/dgcojenhfdjhieoglmiaheihjadlpcml)                                 | A bookmarking utility for the Turtl app (https://turtlapp.com/)                                                        |      |
 
 
 ## Scrapping
