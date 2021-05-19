@@ -6,7 +6,7 @@ tags:
   - vivaldi
   - navigateur
 ---
-Suite au [tweet](https://twitter.com/dbelveze/status/1394951605175345152) de Damien Belvèze ([@dbelveze](https://twitter.com/dbelveze/)) sur les extensions de navigateur à conseiller aux chercheurs/doctorants, j'ai fait la liste des extensions installées sur mon navigateur, [Vivaldi](https://vivaldi.com/fr/) (très personnalisable, accepte les extensions chrome, non-libre).
+Suite au [tweet](https://twitter.com/dbelveze/status/1394951605175345152) de Damien Belvèze ([@dbelveze](https://twitter.com/dbelveze/)) sur les extensions de navigateur à conseiller aux chercheurs/doctorants, j'ai fait la liste des extensions Chrome installées sur mon navigateur, [Vivaldi](https://vivaldi.com/fr/) (très personnalisable, accepte les extensions chrome, non-libre).
 
 Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
