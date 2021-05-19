@@ -42,12 +42,12 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
 
 
-| nom                                   | description                                                                                                            | note |
-| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---- |
-| [**Hypothesis**](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=fr) - Web & PDF Annotation | Collaboratively annotate, highlight, and tag web pages and PDF documents.                                              |      |
-| [Needle](https://needle.univ-lorraine.fr)     | Glissez un fil dans chacune de vos trouvailles sur le web. Suivez les fils de ceux qui les ont découvertes avant vous. |      |
-| [PubPeer](https://pubpeer.com/static/extensions)                               | Show links to existing PubPeer comments                                                                                |      |
-| [Turtl](https://chrome.google.com/webstore/detail/turtl/dgcojenhfdjhieoglmiaheihjadlpcml)                                 | A bookmarking utility for the Turtl app (https://turtlapp.com/)                                                        |      |
+| nom                                 | description                                                            | note |
+| ----------------------------------- | ---------------------------------------------------------------------- | ---- |
+| [**Hypothesis**](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=fr) - Web & PDF Annotation | Collaboratively annotate, highlight, and tag web pages and PDF documents. |      |
+| [Needle](https://needle.univ-lorraine.fr) | Glissez un fil dans chacune de vos trouvailles sur le web. Suivez les fils de ceux qui les ont découvertes avant vous. |      |
+| [PubPeer](https://pubpeer.com/static/extensions)    | Show links to existing PubPeer                         |      |
+| [Turtl](https://chrome.google.com/webstore/detail/turtl/dgcojenhfdjhieoglmiaheihjadlpcml) | A bookmarking utility for the Turtl app (https://turtlapp.com/) |      |
 
 
 ## Scrapping
@@ -55,21 +55,21 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
 | nom                                 | description                                                                                          | note |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------- | ---- |
-| **Extractify**                      | Companion to extract structured data online                                                          |      |
-| Data Scraper - Easy Web Scraping    | Data Scraper extracts data out of HTML web pages and imports it into Microsoft Excel spreadsheets    |      |
-| OpenLink Structured Data Sniffer    | Reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. |      |
-| SingleFile                          | Sauvegardez une page complète dans un simple fichier HTML                                            |      |
-| **Web Scraper** - Free Web Scraping | Web data extraction tool with an easy point-and-click interface for modern web                       |      |
+| [**Extractify**](https://github.com/fredericvergnaud/extractify) | Companion to extract structured data online | Mate-SHS : [Extractify](https://mate-shs.cnrs.fr/actions/tutomate/tuto27-extractify-frederic-vergnaud/) |
+| [Data Scraper](https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden) - Easy Web Scraping | Data Scraper extracts data out of HTML web pages and imports it into Microsoft Excel spreadsheets |      |
+| [**OpenLink Structured Data Sniffer**](http://osds.openlinksw.com)    | Reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. |      |
+| [SingleFile](https://github.com/gildas-lormeau/SingleFile)  | Sauvegardez une page complète dans un simple fichier HTML |      |
+| [**Web Scraper**](https://webscraper.io) - Free Web Scraping | Web data extraction tool with an easy point-and-click interface for modern web |      |
 
 
 ## Sécurité
 
 
-| nom               | description                                                                                                                        | note |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| **HTTPS partout** | Chiffrez la Toile ! Utilisez automatiquement la sécurité HTTPS avec de nombreux sites.                                             |      |
-| Privacy Badger    | Privacy Badger apprend automatiquement à bloquer les traceurs invisibles.                                                          |      |
-| uBlock Origin     | Un bloqueur de nuisances efficace, qui ménagera votre processeur et votre mémoire vive.                                            |      |
+| nom               | description                                                        | note |
+| ----------------- | ------------------------------------------------------------------ | ---- |
+| **HTTPS partout** | Chiffrez la Toile ! Utilisez automatiquement la sécurité HTTPS avec de nombreux sites. |      |
+| Privacy Badger    | Privacy Badger apprend automatiquement à bloquer les traceurs invisibles. |      |
+| uBlock Origin     | Un bloqueur de nuisances efficace, qui ménagera votre processeur et votre mémoire vive. |      |
 | **uMatrix**       | Pointez-et-cliquez pour interdire/autoriser toute sorte de requêtes effectuées par le navigateur à l'aide d'un tableau de données. |      |
 
 
@@ -86,20 +86,20 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 ## Tools
 
 
-| nom                                       | description                                                                                                                                | note |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| Infomous for Google Chrome™               | Visually explore any website with an RSS/Atom feed                                                                                         |      |
-| GitMind - Online MindMapping Software     | Free online mind mapping & brainstorming tool for note-taking, project planning, etc.                                                      |      |
+| nom                                       | description                                                                          | note |
+| ----------------------------------------- | ------------------------------------------------------------------------------------ | ---- |
+| Infomous for Google Chrome™ | Visually explore any website with an RSS/Atom feed |      |
+| GitMind - Online MindMapping Software | Free online mind mapping & brainstorming tool for note-taking, project planning, etc. |      |
 | Nimbus Screenshot & Screen Video Recorder | Faites une capture d'une page Web COMPLÈTE ou d'une partie seulement. Éditez Les captures d'écran - enregistrez des vidéos de votre écran. |      |
-| SQLite Manager pour Google Chrome™        | Affichez ou modifiez une ou plusieurs bases de données SQLite simultanément.                                                               |      |
+| SQLite Manager pour Google Chrome™ | Affichez ou modifiez une ou plusieurs bases de données SQLite simultanément. |      |
 
 
 ## Veille
 
 
-| nom                                         | description                                                                                                                         | note                          |
-| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| **AddToAny**: Share Anywhere                | Share to Facebook, Twitter, WhatsApp, email, and any other sharing or saving service quickly and easily with one share button.      |                               |
+| nom                                         | description                                  | note                          |
+| ------------------------------------------- | -------------------------------------------- | ----------------------------- |
+| **AddToAny**: Share Anywhere | Share to Facebook, Twitter, WhatsApp, email, and any other sharing or saving service quickly and easily with one share button. |                               |
 | Save to **Pocket**                          | Le moyen le plus facile et le plus rapide de sauvegarder des articles, des vidéos et bien plus encore.                              |                               |
 | Better TweetDeck                            | Take TweetDeck to the next level!                                                                                                   |                               |
 | EverSync - Sync bookmarks, backup favorites | Synchronize your bookmarks, FVD Speed Dials. Secure online access. Backup, restore your bookmarks. Sync favorites between computers | Sync. entre chrome et firefox |
