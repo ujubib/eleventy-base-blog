@@ -171,6 +171,26 @@ table th {
   padding-right: 1em;
 }
 
+.tmpl-post table {
+  background-color: #4d1933;
+  padding : 0.8em;
+}
+
+.tmpl-post table th {
+  background-color: #660033;
+  color: bisque;
+  text-align:left;
+  padding : 0.4em 1em;
+}
+
+.tmpl-post table td {
+  padding : 0.4em 1em;
+}
+
+.tmpl-post table strong {
+  color: chartreuse;
+}
+
 pre,
 code {
   font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
