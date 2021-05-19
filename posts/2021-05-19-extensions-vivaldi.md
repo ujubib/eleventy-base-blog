@@ -67,10 +67,10 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
 | nom               | description                                                        | note |
 | ----------------- | ------------------------------------------------------------------ | ---- |
-| **HTTPS partout** | Chiffrez la Toile ! Utilisez automatiquement la sécurité HTTPS avec de nombreux sites. |      |
-| Privacy Badger    | Privacy Badger apprend automatiquement à bloquer les traceurs invisibles. |      |
-| uBlock Origin     | Un bloqueur de nuisances efficace, qui ménagera votre processeur et votre mémoire vive. |      |
-| **uMatrix**       | Pointez-et-cliquez pour interdire/autoriser toute sorte de requêtes effectuées par le navigateur à l'aide d'un tableau de données. |      |
+| [**HTTPS partout**](https://www.eff.org/https-everywhere) | Chiffrez la Toile ! Utilisez automatiquement la sécurité HTTPS avec de nombreux sites. |      |
+| [Privacy Badger](https://privacybadger.org) | Privacy Badger apprend automatiquement à bloquer les traceurs invisibles. |      |
+| [uBlock Origin](https://ublockorigin.com/fr) | Un bloqueur de nuisances efficace, qui ménagera votre processeur et votre mémoire vive. |      |
+| [**uMatrix**](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=fr) | Pointez-et-cliquez pour interdire/autoriser toute sorte de requêtes effectuées par le navigateur à l'aide d'un tableau de données. |      |
 
 
 ## Téléchargement
@@ -78,8 +78,8 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
 | nom                     | description                                                                                            | note |
 | ----------------------- | ------------------------------------------------------------------------------------------------------ | ---- |
-| Enregistrer comme eBook | Save a web page or selection as eBook (.epub)                                                          |      |
-| IIIF Download           | Allows user to download fullsize content from digital libraries serving content using IIIF technology. |      |
+| [Enregistrer comme eBook](https://chrome.google.com/webstore/detail/save-as-ebook/haaplkpoiimngbppjihnegfmpejdnffj?hl=fr) | Save a web page or selection as eBook (.epub) |      |
+| [IIIF Download](https://www.geobib.fr/tool/iiif/) | Allows user to download fullsize content from digital libraries serving content using IIIF technology. | par [@symac](https://twitter.com/symac) |
 
 
 
@@ -88,10 +88,10 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
 | nom                                       | description                                                                          | note |
 | ----------------------------------------- | ------------------------------------------------------------------------------------ | ---- |
-| Infomous for Google Chrome™ | Visually explore any website with an RSS/Atom feed |      |
-| GitMind - Online MindMapping Software | Free online mind mapping & brainstorming tool for note-taking, project planning, etc. |      |
-| Nimbus Screenshot & Screen Video Recorder | Faites une capture d'une page Web COMPLÈTE ou d'une partie seulement. Éditez Les captures d'écran - enregistrez des vidéos de votre écran. |      |
-| SQLite Manager pour Google Chrome™ | Affichez ou modifiez une ou plusieurs bases de données SQLite simultanément. |      |
+| [Infomous for Google Chrome™](https://chrome.google.com/webstore/detail/infomous-for-google-chrom/khhmakiclegmkaenkmjgpmkcghkoglnc) | Visually explore any website with an RSS/Atom feed |      |
+| [GitMind](https://chrome.google.com/webstore/detail/gitmind-online-mindmappin/imholjolohhlbcaokcncpmhjcnmlgbcf) - Online MindMapping Software | Free online mind mapping & brainstorming tool for note-taking, project planning, etc. |      |
+| [Nimbus](https://nimbusweb.me/screenshot.php) Screenshot & Screen Video Recorder | Faites une capture d'une page Web COMPLÈTE ou d'une partie seulement. Éditez Les captures d'écran - enregistrez des vidéos de votre écran. |      |
+| [SQLite Manager pour Google Chrome™](https://chrome.google.com/webstore/detail/sqlite-manager-for-google/aejlocbcokogiclkcfddhfnpajhejmeb?hl=fr) | Affichez ou modifiez une ou plusieurs bases de données SQLite simultanément. |      |
 
 
 ## Veille
@@ -99,9 +99,9 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
 | nom                                         | description                                  | note                          |
 | ------------------------------------------- | -------------------------------------------- | ----------------------------- |
-| **AddToAny**: Share Anywhere | Share to Facebook, Twitter, WhatsApp, email, and any other sharing or saving service quickly and easily with one share button. |                               |
-| Save to **Pocket**                          | Le moyen le plus facile et le plus rapide de sauvegarder des articles, des vidéos et bien plus encore.                              |                               |
-| Better TweetDeck                            | Take TweetDeck to the next level!                                                                                                   |                               |
+| [**AddToAny**](https://www.addtoany.com): Share Anywhere | Share to Facebook, Twitter, WhatsApp, email, and any other sharing or saving service quickly and easily with one share button. |                               |
+| Save to [**Pocket**](https://getpocket.com/add/?ep=1)                          | Le moyen le plus facile et le plus rapide de sauvegarder des articles, des vidéos et bien plus encore.                              |                               |
+| [Better TweetDeck](https://chrome.google.com/webstore/detail/better-tweetdeck/micblkellenpbfapmcpcfhcoeohhnpob?hl=fr)                            | Take TweetDeck to the next level!                                                                                                   |                               |
 | EverSync - Sync bookmarks, backup favorites | Synchronize your bookmarks, FVD Speed Dials. Secure online access. Backup, restore your bookmarks. Sync favorites between computers | Sync. entre chrome et firefox |
 | **The RSS Aggregator**                      | RIP Opera                                                                                                                           |                               |
 | Wakelet                                     | Save, organize and share content from across the web!                                                                               |                               |
