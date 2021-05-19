@@ -6,33 +6,27 @@ tags:
   - vivaldi
   - navigateur
 ---
+
 Suite au [tweet](https://twitter.com/dbelveze/status/1394951605175345152) de Damien Belvèze ([@dbelveze](https://twitter.com/dbelveze/)) sur les extensions de navigateur à conseiller aux chercheurs/doctorants, j'ai fait la liste des extensions Chrome installées sur mon navigateur, [Vivaldi](https://vivaldi.com/fr/) (très personnalisable, accepte les extensions chrome, non-libre).
 
 Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 
-
 ## Biblio
 
-
-
-| nom                                    | description                                                                                                                       | note |
-| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| BibSonomy Buttons                      | BibSonomy Buttons Plugin                                                                                                          |      |
-| EndNote Click - *Formerly Kopernio*      | Fast, one-click access to millions of research papers.                                                                            |      |
-| **ISTEX**                                  | An add-on for identifying ISTEX resources in the browser pages                                                                    |      |
-| Librarian for arXiv - Fermat's Library | Quickly find references and bibtex of arXiv papers                                                                                |      |
-| Open Access Button                     | Push Button. Get Research. Make Progress.                                                                                         |      |
-| Scholarcy - Research Paper Summarizer  | Summarizes research papers, creates interactive flashcards, highlights key points, links to open-access versions of each citation |      |
-| Science Research Assistant             | Search for scientific information as quickly as possible while researching and writing scientific papers.                         |      |
-| Scite                                  | scite allows users to see how a publication has been cited, providing the citation context and classification                     |      |
-| **Unpaywall**                              | Legally get full text of scholarly articles as you browse.                                                                        |      |
-| **Zotero Connector**                       | Save references to Zotero from your web browser                                                                                   |      |
-
-
+| nom                                    | description                                                               | note |
+| -------------------------------------- | ------------------------------------------------------------------------- | ---- |
+| [BibSonomy Buttons](https://www.bibsonomy.org/buttons)         | BibSonomy Buttons Plugin                    |      |
+| [EndNote Click](https://click.endnote.com) - *Formerly Kopernio*  | Fast, one-click access to millions of research papers. |      |
+| **ISTEX**                                  | An add-on for identifying ISTEX resources in the browser pages         |      |
+| [Librarian for arXiv](https://fermatslibrary.com/librarian) - Fermat's Library | Quickly find references and bibtex of arXiv papers  |      |
+| Open Access Button                     | Push Button. Get Research. Make Progress.              |      |
+| [Scholarcy](https://www.scholarcy.com/using-the-chrome-extension/) - Research Paper Summarizer | Summarizes research papers, creates interactive flashcards, highlights key points, links to open-access versions of each citation | Chrome only     |
+| [Science Research Assistant](https://chrome.google.com/webstore/detail/science-research-assistan/ceacgaccjcomdbnoodjpllihjmeflfmg)  | Search for scientific information as quickly as possible while researching and writing scientific papers.        |      |
+| [Scite](https://chrome.google.com/webstore/detail/scite/homifejhmckachdikhkgomachelakohh)          | scite allows users to see how a publication has been cited, providing the citation context and classification           |      |
+| [**Unpaywall**](https://unpaywall.org/products/extension)       | Legally get full text of scholarly articles as you browse.                               |      |
+| [**Zotero Connector**](https://www.zotero.org/download/connectors)       | Save references to Zotero from your web browser                                        |      |
 
 ## Markdown
-
-
 
 | nom                                   | description                                                                            | note |
 | ------------------------------------- | -------------------------------------------------------------------------------------- | ---- |
