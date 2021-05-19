@@ -120,15 +120,14 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 ## Webdev
 
 
-| nom                                 | description                                                                                                                                                                                                                        | note |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| nom                                 | description                                                                | note |
+| ----------------------------------- | -------------------------------------------------------------------------- | ---- |
 | Stylus                              | Changez l'apparence du Web grâce à Stylus, un outil de gestion des styles utilisateur. Stylus vous permet d'installer facilement des thèmes et des habillages pour Google, Facebook, YouTube, orkut et bien d'autres sites encore. |      |
-| **Violentmonkey**                   | Un gestionnaire de scipts utilisateurs qui supporte beaucoup de navigateurs                                                                                                                                                        |      |
-| **DJSON** - JSON Viewer & Formatter | Extension to format and view JSON, from Web, Input or File.                                                                                                                                                                        |      |
-| Html Scan                           | Scan and copy text, html markup on any websites                                                                                                                                                                                    |      |
-| JSONView                            | Validate and view JSON documents                                                                                                                                                                                                   |      |
-| XPath Generator                     | Cette extension ne respecte pas les règles du Chrome Web Store.                                                                                                                                                                    |      |
-| **XPath Helper**                    | Extract, edit, and evaluate XPath queries with ease.                                                                                                                                                                               |      |
+| **Violentmonkey**                   | Un gestionnaire de scipts utilisateurs qui supporte beaucoup de navigateurs |     |
+| **DJSON** - JSON Viewer & Formatter | Extension to format and view JSON, from Web, Input or File. |      |
+| Html Scan                           | Scan and copy text, html markup on any websites |      |
+| JSONView                            | Validate and view JSON documents |      |
+| **XPath Helper**                    | Extract, edit, and evaluate XPath queries with ease. |      |
 
 
 ## Désactivées
@@ -142,4 +141,4 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 | téléchargement | Flash Video Downloader                | Cette extension contient des logiciels malveillants.                    |      |
 | téléchargement | Video Downloader Pro                  | Le moyen le plus simple de télécharger des vidéos sur le Web!           |      |
 | téléchargement | MEGA                                  | Secure Cloud Storage and Chat                                           |      |
-
+| webdev         | XPath Generator                       | Cette extension ne respecte pas les règles du Chrome Web Store.         |      |

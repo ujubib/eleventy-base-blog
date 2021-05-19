@@ -365,6 +365,16 @@ a[href].post-tag:focus {
   margin: 0;
 }
 
+.warning table {
+  background-color: #b30059;
+  padding : 0em 0em;
+  margin: 0px 0px 0px;
+}
+
+.warning table td {
+  padding : 0em 0em;
+}
+
 /* Direct Links / Markdown Headers */
 .direct-link {
   font-family: sans-serif;
