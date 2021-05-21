@@ -22,7 +22,7 @@ templateClass: tmpl-post
 <h1>{{ title }}</h1>
 
 {% if content | toc %}
-<hr style="border:none;border-top:1px dashed deeppink;max-width:49em;margin:0px;margin-top:1em;margin-bottom:1em;" />
+<hr style="border:none;border-top:1px dashed deeppink;max-width:49em;margin:0px;margin-top:-1em;margin-bottom:1em;" />
 {{ content | toc | safe }}
 <hr style="border:none;border-top:1px dashed deeppink;max-width:49em;margin:0px;margin-top:0.8em;" />
 {% endif %}
@@ -35,7 +35,7 @@ templateClass: tmpl-post
 <hr class="top"/>
 <ul>
   {%- if nextPost %}<li>Billet suivant : <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-  {%- if previousPost %}<li>Billet précédant : <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+  {%- if previousPost %}<li>Billet précédent : <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
   <li><a href="https://uju-11ty.netlify.app/feed/feed.xml"><img height="22px" src="/img/rss-blanc.png" style="vertical-align:middle"></img> Flux Atom (pour s'abonner)</a></li>
 </ul>
 {%- endif %}
