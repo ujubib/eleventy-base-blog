@@ -7,9 +7,9 @@ tags:
   - navigateur
 ---
 
-Suite au [tweet](https://twitter.com/dbelveze/status/1394951605175345152) de Damien Belvèze ([@dbelveze](https://twitter.com/dbelveze/)) sur les extensions de navigateur à conseiller aux chercheurs/doctorants, j'ai fait la liste des extensions Chrome installées sur mon navigateur, [Vivaldi](https://vivaldi.com/fr/) (très personnalisable, accepte les extensions chrome, non-libre).
+Suite au [tweet](https://twitter.com/dbelveze/status/1394951605175345152) de Damien Belvèze ([@dbelveze](https://twitter.com/dbelveze/)) sur les extensions de navigateur à conseiller aux chercheurs/doctorants, j'ai fait la liste des extensions Chrome installées sur mon navigateur, [Vivaldi](https://vivaldi.com/fr/) (très personnalisable, accepte les extensions chrome, non-libre). En vert celles que j'apprécie et utilise particulièrement.
 
-Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
+Il faudra que je teste [Brave](https://brave.com/fr/) un jour.
 
 ## Biblio
 
@@ -20,6 +20,7 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 | [**ISTEX**](https://addons.istex.fr) | An add-on for identifying ISTEX resources in the browser pages         |      |
 | [Librarian for arXiv](https://fermatslibrary.com/librarian) | Quickly find references and bibtex of arXiv papers - Fermat's Library |      |
 | [Open Access Button](https://openaccessbutton.org)                     | Push Button. Get Research. Make Progress.              |      |
+| [PubPeer](https://pubpeer.com/static/extensions)    | Show links to existing PubPeer                         |      |
 | [Scholarcy](https://www.scholarcy.com/using-the-chrome-extension/) | Summarizes research papers, creates interactive flashcards, highlights key points, links to open-access versions of each citation | Chrome only     |
 | [Science Research Assistant](https://chrome.google.com/webstore/detail/science-research-assistan/ceacgaccjcomdbnoodjpllihjmeflfmg)  | Search for scientific information as quickly as possible while researching and writing scientific papers.        |      |
 | [Scite](https://chrome.google.com/webstore/detail/scite/homifejhmckachdikhkgomachelakohh)          | scite allows users to see how a publication has been cited, providing the citation context and classification           |      |
@@ -41,7 +42,6 @@ Ne pas hésiter à parler de [Brave](https://brave.com/fr/).
 | ----------------------------------- | ---------------------------------------------------------------------- | ---- |
 | [**Hypothesis**](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=fr) | Web & PDF Annotation - Collaboratively annotate, highlight, and tag web pages and PDF documents. |      |
 | [Needle](https://needle.univ-lorraine.fr) | Glissez un fil dans chacune de vos trouvailles sur le web. Suivez les fils de ceux qui les ont découvertes avant vous. |      |
-| [PubPeer](https://pubpeer.com/static/extensions)    | Show links to existing PubPeer                         |      |
 | [Turtl](https://chrome.google.com/webstore/detail/turtl/dgcojenhfdjhieoglmiaheihjadlpcml) | A bookmarking utility for the Turtl app (https://turtlapp.com/) |      |
 
 ## Scraping
