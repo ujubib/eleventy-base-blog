@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Extensions Vivaldi
+title: Extensions Chrome que j'utilise avec Vivaldi
 date: 2021-05-18T22:00:00.000Z
 tags:
   - vivaldi
