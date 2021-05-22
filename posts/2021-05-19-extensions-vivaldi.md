@@ -42,7 +42,7 @@ Il faudra que je teste [Brave](https://brave.com/fr/) un jour.
 | ----------------------------------- | ---------------------------------------------------------------------- | ---- |
 | [**Hypothesis**](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek?hl=fr) | Web & PDF Annotation - Collaboratively annotate, highlight, and tag web pages and PDF documents. |      |
 | [Needle](https://needle.univ-lorraine.fr) | Glissez un fil dans chacune de vos trouvailles sur le web. Suivez les fils de ceux qui les ont découvertes avant vous. |      |
-| [Turtl](https://chrome.google.com/webstore/detail/turtl/dgcojenhfdjhieoglmiaheihjadlpcml) | A bookmarking utility for the Turtl app (https://turtlapp.com/) |      |
+| [Turtl](https://chrome.google.com/webstore/detail/turtl/dgcojenhfdjhieoglmiaheihjadlpcml) | A bookmarking utility for the Turtl app (https://turtlapp.com/) | client [Framanotes](https://framanotes.org/fr/) |
 
 ## Scraping
 
@@ -61,7 +61,7 @@ Il faudra que je teste [Brave](https://brave.com/fr/) un jour.
 | [**HTTPS partout**](https://www.eff.org/https-everywhere) | Chiffrez la Toile ! Utilisez automatiquement la sécurité HTTPS avec de nombreux sites. |      |
 | [Privacy Badger](https://privacybadger.org) | Privacy Badger apprend automatiquement à bloquer les traceurs invisibles. |      |
 | [uBlock Origin](https://ublockorigin.com/fr) | Un bloqueur de nuisances efficace, qui ménagera votre processeur et votre mémoire vive. |      |
-| [**uMatrix**](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=fr) | Pointez-et-cliquez pour interdire/autoriser toute sorte de requêtes effectuées par le navigateur à l'aide d'un tableau de données. |      |
+| [**uMatrix**](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf?hl=fr) | Pointez-et-cliquez pour interdire/autoriser toute sorte de requêtes effectuées par le navigateur à l'aide d'un tableau de données. | [un tutoriel](https://proprivacy.com/privacy-service/guides/lifehacks-setup-umatrix-beginners)     |
 
 ## Téléchargement
 
@@ -75,8 +75,8 @@ Il faudra que je teste [Brave](https://brave.com/fr/) un jour.
 | nom                                       | description                                                                          | note |
 | ----------------------------------------- | ------------------------------------------------------------------------------------ | ---- |
 | [Infomous for Google Chrome™](https://chrome.google.com/webstore/detail/infomous-for-google-chrom/khhmakiclegmkaenkmjgpmkcghkoglnc) | Visually explore any website with an RSS/Atom feed |      |
+| [**JSONView**](https://jsonview.com) | Validate and view JSON documents |      |
 | [GitMind](https://chrome.google.com/webstore/detail/gitmind-online-mindmappin/imholjolohhlbcaokcncpmhjcnmlgbcf) | Free online mind mapping & brainstorming tool for note-taking, project planning, etc. |      |
-| [Nimbus](https://nimbusweb.me/screenshot.php) | Screenshot & Screen Video Recorder - Faites une capture d'une page Web COMPLÈTE ou d'une partie seulement. Éditez Les captures d'écran - enregistrez des vidéos de votre écran. |      |
 | [SQLite Manager pour Google Chrome™](https://chrome.google.com/webstore/detail/sqlite-manager-for-google/aejlocbcokogiclkcfddhfnpajhejmeb?hl=fr) | Affichez ou modifiez une ou plusieurs bases de données SQLite simultanément. |      |
 
 ## Veille
@@ -106,7 +106,6 @@ Il faudra que je teste [Brave](https://brave.com/fr/) un jour.
 | [**Violentmonkey**](https://violentmonkey.github.io) | Un gestionnaire de scipts utilisateurs qui supporte beaucoup de navigateurs |     |
 | [DJSON - Viewer](https://github.com/dardesantis/DJSON-Viewer) | Extension to format and view JSON, from Web, Input or File. |      |
 | [Html Scan](https://chrome.google.com/webstore/detail/html-scan/jkkccmdilclkdkhkfdmcbdiagpibmpne) | Scan and copy text, html markup on any websites |      |
-| [**JSONView**](https://jsonview.com) | Validate and view JSON documents |      |
 | [**XPath Helper**](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=fr) | Extract, edit, and evaluate XPath queries with ease. |      |
 
 ## Désactivées
@@ -119,4 +118,5 @@ Il faudra que je teste [Brave](https://brave.com/fr/) un jour.
 | téléchargement | Flash Video Downloader                | Cette extension contient des logiciels malveillants.                    |      |
 | téléchargement | Video Downloader Pro                  | Le moyen le plus simple de télécharger des vidéos sur le Web!           |      |
 | téléchargement | MEGA                                  | Secure Cloud Storage and Chat                                           |      |
+| tools          | [Nimbus](https://nimbusweb.me/screenshot.php) | Screenshot & Screen Video Recorder - Faites une capture d'une page Web COMPLÈTE ou d'une partie seulement. Éditez Les captures d'écran - enregistrez des vidéos de votre écran. |      |
 | webdev         | XPath Generator                       | Cette extension ne respecte pas les règles du Chrome Web Store.         |      |
