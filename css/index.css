@@ -2,7 +2,7 @@
 :root {
   --lightgray: chocolate;
   --gray: coral;
-  --darkgray: LightPink;
+  --darkgray: DarkSeaGreen;
   --navy: goldenrod;
   --blue: Khaki;
   --white: #660033;
@@ -38,7 +38,7 @@ div.accueil {
 }
 
 p.accueil {
-  color:palegreen;
+  color:MediumOrchid;
 }
 
 .hypo {
@@ -178,7 +178,7 @@ table th {
 
 .tmpl-post table th {
   background-color: #660033;
-  color: bisque;
+  color: LightSalmon;
   text-align:left;
   padding : 0.4em 1em;
 }
