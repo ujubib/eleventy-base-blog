@@ -21,7 +21,7 @@ Il s'agit concrètement d'un seul fichier html *gavé* de javascript.
 
 Pour mes notes, j'en créais un par conférence, atelier, formation... 
 
-![dossier TW](/img/TW-Excel/tiddly1.png)
+<img src="/img/TW-Excel/tiddly1.png" height=400px style="border: 2px" onclick="window.open('/img/TW-Excel/tiddly1.png','_blank')"/>
 
 Aujourd'hui il m'en reste 3 "en production", dont un pour l'administration du portail HAL-e2s-UPPA (Université de Pau et des Pays de l'Adour). Ils sont sur le gitlab de l'université.
 
