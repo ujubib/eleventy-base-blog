@@ -2,7 +2,7 @@
 :root {
   --lightgray: chocolate;
   --gray: coral;
-  --darkgray: DarkSeaGreen;
+  --darkgray: NavajoWhite;
   --navy: goldenrod;
   --blue: Khaki;
   --white: #660033;
@@ -73,7 +73,7 @@ body {
   margin-left: 2em;
   margin-right: 2em;
   margin-bottom: 1em;
-  font-family: 'candara', -apple-system, system-ui, sans-serif;
+  font-family: 'Trebuchet MS', 'candara', -apple-system, system-ui, sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
 }
@@ -195,7 +195,9 @@ pre,
 code {
   font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
   line-height: 1.5;
-  background-color: black;
+  background-color: DarkSlateGray;
+  color:PaleGreen;
+  padding: 2px 4px;
 }
 pre {
   font-size: 14px;
@@ -214,7 +216,7 @@ pre {
   hyphens: none;
   padding: 1em;
   margin: .5em 0;
-  background-color: #422121;
+  background-color: DarkSlateGray;
 }
 code {
   word-break: break-all;
