@@ -50,9 +50,10 @@ Il faudra que je teste [Brave](https://brave.com/fr/) un jour.
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------- | ---- |
 | [**Extractify**](https://github.com/fredericvergnaud/extractify) | Companion to extract structured data online | Mate-SHS : [Extractify](https://mate-shs.cnrs.fr/actions/tutomate/tuto27-extractify-frederic-vergnaud/) |
 | [Data Scraper](https://chrome.google.com/webstore/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden) - Easy Web Scraping | Data Scraper extracts data out of HTML web pages and imports it into Microsoft Excel spreadsheets |      |
-| [**OpenLink Structured Data Sniffer**](http://osds.openlinksw.com)    | Reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. |      |
+| [**OpenLink Structured Data Sniffer**](http://osds.openlinksw.com)   | Reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents. |      |
 | [SingleFile](https://github.com/gildas-lormeau/SingleFile)  | Sauvegardez une page complète dans un simple fichier HTML |      |
 | [**Web Scraper**](https://webscraper.io) | Web data extraction tool with an easy point-and-click interface for modern web |      |
+
 
 ## Sécurité
 

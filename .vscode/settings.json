@@ -1,5 +1,7 @@
 {
     "[markdown]": {
         "editor.cursorSurroundingLines": 0
-    }
+    },
+    "frontMatter.framework.id": "other",
+    "frontMatter.content.publicFolder": ""
 }
