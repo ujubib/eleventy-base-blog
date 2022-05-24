@@ -13,7 +13,7 @@ tags:
 
 Je teste *Obsidian* depuis presque un an, un peu pour suivre la mode, un peu parce que le ticket d'entrée est quasi nul quand on vient de 7 ans de *WikiText* mais surtout parce que le concept de 'carnet de fichiers markdown' est extrêmement simple et bien plus *portable*. C'est très satisfaisant au final. 
 
-Mais mon vrai systeme de notebook coup de cœur, c'est [TiddlyWiki](https://tiddlywiki.com).
+Mais mon vrai système de notebook coup de cœur, c'est [TiddlyWiki](https://tiddlywiki.com).
 
 Ce n'est pas un **vrai** wiki au sens où il n'est pas nativement collaboratif et ne gère pas les **versions** de vos *tiddlers* (entrées). C'est plutôt un notebook personnel avec des fonctions d'**édition** et de **liens internes** avancées (et très extensibles et personnalisables).
 
@@ -46,7 +46,7 @@ Un *tiddler* (tuile?) est une entrée du (tiddly)wiki. Il y a un champ `text` o�
 Ces champs sont mobilisables pour le tri, les listes, l'affichage dans des templates (par exemple le plugin BibTeX permet à la lecture de fichiers `.bib` la création de tiddlers avec des champs de type `bibtex-propriété`).
 
 ![Gabarit de citation d'un article bibtex](/img/TW-Excel/tw-bibtex-gabcitart.png)\
-Tiddler 'GabCitArt' : template pour afficher un tiddler bibtex (titre du tiddler = clé bibtex) dans un autre tiddler avec une syntaxe de type transclusion/tempate.
+Tiddler 'GabCitArt' : template pour afficher un tiddler bibtex (titre du tiddler = clé bibtex) dans un autre tiddler avec une syntaxe de type transclusion/template.
 
 ![Screenshot Biblio Robin de Mourat]()
 
